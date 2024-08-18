@@ -15,7 +15,9 @@ Hér eru 11 Jinja template [kóðasýnidæmi](https://github.com/vefthroun/Namse
 
 ---
 
-#### Jinja macros (geyma)
+<!--
+
+#### Jinja macros
 - [macros](https://realpython.com/primer-on-jinja-templating/#include-macros)
 - [Tafla: How to reuse code blocks easily with Jinja2 macros!](https://www.youtube.com/watch?v=q9na89PgzGk)
 - [Form: Creating a Macro to Reduce Code Duplication](https://github.com/PrettyPrinted/youtube_video_code/tree/master/2017/04/28/Flask-WTF%20-%20Creating%20a%20Macro%20to%20Reduce%20Code%20Duplication%20(4%20of%205))
@@ -27,7 +29,7 @@ Hér eru 11 Jinja template [kóðasýnidæmi](https://github.com/vefthroun/Namse
 -->
 
 
-#### Jinja Filters (geyma)
+#### Jinja Filters 
 
 * [Filters](https://jinja.palletsprojects.com/en/3.0.x/templates/#list-of-builtin-filters)
 * [Format Datetime in Jinja2](https://riptutorial.com/flask/example/4779/format-datetime-in-a-jinja2-template)
@@ -38,4 +40,6 @@ Hér eru 11 Jinja template [kóðasýnidæmi](https://github.com/vefthroun/Namse
 * [Filters](https://www.webforefront.com/django/usebuiltinjinjafilters.html)
 * [Custom Filters](http://jinja.pocoo.org/docs/2.11/api/#custom-filters)
 * [Video](https://www.youtube.com/watch?v=H7StWE1ecrU)
+-->
+
 -->
