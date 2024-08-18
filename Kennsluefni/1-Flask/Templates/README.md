@@ -1,6 +1,6 @@
 ### [Jinja](https://jinja.palletsprojects.com/en/3.0.x/templates/) 
 
-Hér eru 11 [kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/2-Flask/Templates).
+Hér eru 11 [kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/2-Flask/Templates) með íslenskum athugasemdum.
 
 ---
 
