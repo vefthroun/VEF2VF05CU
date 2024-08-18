@@ -4,8 +4,7 @@
 ---
 
 ### Uppsetning á Flask með VENV umhverfi
-- með VSCode: [Flask tutorial in VS Code](https://code.visualstudio.com/docs/python/tutorial-flask)
-- _án VSCode: [Flask installation](https://flask.palletsprojects.com/en/2.3.x/installation/)_.
+- með VSCode: [Flask tutorial in VS Code](https://code.visualstudio.com/docs/python/tutorial-flask) eða án VSCode: [Flask installation](https://flask.palletsprojects.com/en/2.3.x/installation/).
 
 _[Hugsanleg vandamál við uppsetningu Flask](Vandamal.md)_
 
