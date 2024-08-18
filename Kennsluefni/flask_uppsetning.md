@@ -3,16 +3,14 @@
 
 ---
 
-### Uppsetning á Flask með VENV umhverfi
-- með VSCode: [Flask tutorial in VS Code](https://code.visualstudio.com/docs/python/tutorial-flask) eða án VSCode: [Flask installation](https://flask.palletsprojects.com/en/2.3.x/installation/).
-
-_[Hugsanleg vandamál við uppsetningu Flask](Vandamal.md)_
+### Uppsetning á Flask með VENV 
+1. Uppsetning á Flask með VENV umhverfi, [Flask tutorial in VS Code](https://code.visualstudio.com/docs/python/tutorial-flask) (eða án VSCode: [Flask installation](https://flask.palletsprojects.com/en/2.3.x/installation/)). _[Hugsanleg vandamál við uppsetningu Flask](Vandamal.md)_
 
 ---
 
 ### Halló heimur
 1. Búðu til [app.py](Routes/halloheimur.md) skránna í Visual Studio Code Editor 
-1. vistaðu `app.py` í _vefforitun_ möppunni sem geymir einnig venv möppuna   (aldrei nefna skrá "flask.py")
+1. vistaðu `app.py` í möppu sem inniheldur einnig venv möppuna   (aldrei nefna skrá "flask.py")
 1. Keyrðu python skránna: notaðu play takkann í VSCode eða terminal: `flask run` eða `python app.py`
 1. Skoðaðu vefsíðuna í vafra
 
