@@ -3,7 +3,7 @@
 
 ---
 
-Útfærðu einfaldan vef með [Flask](https://github.com/vefthroun/Vefforritun1/tree/main/Kennsluefni/1-Flask#hva%C3%B0-er-flask) og einföldu [Jinja](https://github.com/vefthroun/Vefforritun1/blob/main/Kennsluefni/1-Flask/Templates/README.md) template (ekki nota _include_ eða _inheritance_ í þessu verkefni). Vefurinn inniheldur forsíðu, _Um mig_ síðu og 404 error útfærða vefsíðu. Notaðu VSCode ritilinn og settu upp FLASK í **VENV** umhverfi. 
+Útfærðu einfaldan vef með [Flask](https://github.com/vefthroun/Vefforritun1/tree/main/Kennsluefni/1-Flask#hva%C3%B0-er-flask) og einföldu [Jinja](https://github.com/vefthroun/Vefforritun1/blob/main/Kennsluefni/1-Flask/Templates/README.md) template (ekki nota _include_ eða _inheritance_ í þessu verkefni). Vefurinn inniheldur forsíðu, _Um mig_ síðu og 404 error sérútfærða vefsíðu. Notaðu VSCode ritilinn og settu upp FLASK í **VENV** umhverfi. 
 
 1. Láréttur menu á _forsíðu_ og _Um mig_ síðu inniheldur tvo hlekki. Notaðu [static route](https://github.com/vefthroun/Vefforritun1/blob/main/Kennsluefni/1-Flask/Routes/1_staticRoutes.py)) fyrir forsíðu og _Um mig_. Hlekkir eru vistaðir í `tuple` í app.py skrá, sjá nánar [hér](https://github.com/vefthroun/Vefforritun1/blob/main/Kennsluefni/1-Flask/Routes/datastructures.py).  **(20%)**
 1. Forsíðan inniheldur menu og random ljósmynd ([https://picsum.photos/](https://picsum.photos/) ) **(10%)**
