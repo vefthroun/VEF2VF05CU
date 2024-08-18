@@ -16,5 +16,5 @@ Innihald (gögn) eiga aldrei að vera skrifuð beint í html!
 ---
 
 ### Námsmat og skil
-- Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hluta til kominn eða ófullnægjandi og ekkert ef hann vantar.
+- Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hluta til kominn og ekkert ef hann vantar.
 - Skilaðu þjappaðri (zip/rar) möppu með öllum skrám (_ekki venv möppu_) á Innu.
