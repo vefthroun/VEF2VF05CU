@@ -1,7 +1,7 @@
 ### [Jinja](https://jinja.palletsprojects.com/en/3.0.x/templates/) 
 
 Hér eru 11 Jinja template [kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/2-Flask/Templates) með íslenskum athugasemdum. <br>
-**Ath**. Við förum í `include` í viku 2 og `inheritance` í viku 3
+**Ath**. Við förum í _include_ í viku 2 og _inheritance_ í viku 3
 
 ---
 
