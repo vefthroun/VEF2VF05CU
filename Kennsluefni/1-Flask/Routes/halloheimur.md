@@ -30,7 +30,7 @@ if __name__ == '__main__':
 #### Nánari skýringar
 
 - Flask API documentation [`Flask(__name__)`](https://flask.palletsprojects.com/en/2.2.x/api/#flask.Flask)
-- Decorators[`@app.route('/')`](decorators.md)
+- Decorators[`@app.route('/')`](0_decorators.md) 
 - Python documentation [`__main__`](https://docs.python.org/3/library/__main__.html)
 - Stack Overflow [`if __name__ == '__main__':`](https://stackoverflow.com/questions/419163/what-does-if-name-main-do)
 
