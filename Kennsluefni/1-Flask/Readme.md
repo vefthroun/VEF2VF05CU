@@ -13,7 +13,7 @@ _[Lausnir]((Vandamal.md)) á hugsanlegum vandamálum við uppsetningu á VENV e�
 ### Halló heimur
 1. Búðu til [app.py](Routes/halloheimur.md) skránna í Visual Studio Code Editor 
 1. vistaðu `app.py` í möppu sem inniheldur einnig venv möppuna   (aldrei nefna skrá "flask.py")
-1. Keyrðu python skránna: notaðu play takkann í VSCode eða skrifað í terminal: `flask run` eða `python app.py`
+1. Keyrðu python skránna: notaðu play takkann í VSCode eða skrifað í terminal: `flask run` 
 1. Skoðaðu vefsíðuna í vafra
 
 ---
