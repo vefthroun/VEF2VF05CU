@@ -12,7 +12,7 @@
 1. Notaðu [New CSS](https://newcss.net/) CSS safnið fyrir útlit og uppsetningu **(20%)**
 
 
-### Skráarskipulag
+#### Skráarskipulag
 - Templateskrár sem í grunninn byggir á HTML geymast í möppu sem nefnist `templates`.
 - Stílsíður (CSS), myndir, JavaScript og önnur `binary` skjöl fara í möppu sem nefnist `static`.
 - Gögn eru ýmist vistuð í lista, dictionary, skrám eða gagnagrunna. Innihald (gögn) eiga aldrei að vera skrifuð beint í html!
