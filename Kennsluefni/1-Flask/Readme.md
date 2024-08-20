@@ -6,7 +6,7 @@
 ### Uppsetning á Flask með VENV 
 [Flask tutorial in VS Code](https://code.visualstudio.com/docs/python/tutorial-flask).
 
-_[Lausnir]((Vandamal.md)) á hugsanlegum vandamálum við uppsetningu á VENV eða Flask_
+_[Lausnir](Vandamal.md) á hugsanlegum vandamálum við uppsetningu á VENV eða Flask_
 
 ---
 
