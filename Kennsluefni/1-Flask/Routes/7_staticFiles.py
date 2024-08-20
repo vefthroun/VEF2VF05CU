@@ -3,13 +3,10 @@ app = Flask(__name__)
 
 """
 Static files. 
-https://flask.palletsprojects.com/en/2.1.x/quickstart/#static-files
+https://flask.palletsprojects.com/en/2.3.x/quickstart/#static-files
 
 Búðu til möppuna static við hlið kóðaskránum þínum og notaðu /static sem vísun í html.
 Í static möppu geymir þú gögn einsog CSS skrár, JavaScript, myndir og aðrar "binary" skrár.
-
-Ideally your web server is configured to serve them for you, but during development Flask can do that as well. 
-Just create a folder called static next to your module and it will be available at /static on the application.
 """
 
 @app.route('/')
