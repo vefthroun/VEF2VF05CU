@@ -18,7 +18,6 @@ def index():
     return 'Halló heimur!'
 
 # Client error
-# Note the 404 after the return string
 # This tells Flask that the status code of that page should be 404 which means not found. 
 @app.errorhandler(404)
 def pagenotfound(error):
