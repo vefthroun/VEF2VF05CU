@@ -2,7 +2,6 @@
 
 #### Vika 1
 1. [Halló heimur](halloheimur.md)
-1. [Decorators](0_decorators.md)
 1. [Static Routing](1_staticRoutes.py) 
 1. [Error Handling](5_errorHandlingStatusCodes.py)
 1. [Static files](7_staticFiles.py)
