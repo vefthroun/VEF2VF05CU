@@ -6,7 +6,7 @@
 ### Uppsetning á Flask með VENV 
 [Flask tutorial in VS Code](https://code.visualstudio.com/docs/python/tutorial-flask).
 
-[Lausn](Vandamal.md): _Skriftur disabled í Windows_
+> [Lausn](Vandamal.md) á _skriftur disabled í Windows_
 
 ---
 
