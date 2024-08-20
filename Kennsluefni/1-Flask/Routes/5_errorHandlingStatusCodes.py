@@ -8,7 +8,7 @@ app = Flask(__name__)
 """
 Errors and status codes:
 If you want to customize the error page, you can use the errorhandler() decorator:
-https://flask.palletsprojects.com/en/2.1.x/quickstart/#redirects-and-errors
+https://flask.palletsprojects.com/en/2.3.x/quickstart/#redirects-and-errors
 
 By default 200 is assumed which translates to: all went well.
 """
