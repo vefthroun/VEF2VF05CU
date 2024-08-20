@@ -1,6 +1,13 @@
 ### [Jinja](https://jinja.palletsprojects.com/en/3.0.x/templates/) 
 
 Hér eru 11 Jinja template [kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/2-Flask/Templates) með íslenskum athugasemdum. <br>
+
+#### Vika 1
+- 1_static.py
+- 2_breyta_og_dictionary.py
+- 3_listi.py
+- 4_dictionary_lykkja.py
+
 **Ath**. Við förum í _include_ í viku 2 og _inheritance_ í viku 3
 
 ---
