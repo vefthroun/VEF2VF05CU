@@ -29,14 +29,6 @@ def pagenotfound(error):
 def servernotfound(error):
     return "Server is down!", 500
 
-<!--
-# make_response() that we can use to send custom headers, as well as change the property (like status_code, mimetype, etc.) in response. 
-# https://flask.palletsprojects.com/en/2.2.x/api/#flask.make_response
-@app.errorhandler(400)
-def bad_request():
-    return make_response("Bad request!", 400)  
--->
-
 if __name__ == '__main__':
   app.run(debug=True, use_reloader=True)  
 
