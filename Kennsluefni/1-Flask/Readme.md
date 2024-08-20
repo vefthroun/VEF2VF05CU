@@ -16,13 +16,6 @@
 1. Keyrðu python skránna: notaðu play takkann í VSCode eða skrifað í terminal `flask run` 
 1. Skoðaðu vefsíðuna í vafra
 
----
-
-### Skráarskipulag
-- Templateskrár sem í grunninn byggir á HTML geymast í möppu sem nefnist `templates`.
-- Stílsíður (CSS), myndir, JavaScript og önnur `binary` skjöl fara í möppu sem nefnist `static`.
-- Gögn eru ýmist vistuð í lista, dictionary, skrám eða gagnagrunna.
-
 
 <!--
 #### Uppsetning vefþróunarsvæðis, leiðbeiningar <br>(Windows með Command Promt, CMD. Mac með Terminal)
