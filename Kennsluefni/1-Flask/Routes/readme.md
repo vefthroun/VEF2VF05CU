@@ -5,7 +5,6 @@
 1. [Static Routing](1_staticRoutes.py) 
 1. [Error Handling](5_errorHandlingStatusCodes.py)
 1. [Static files](7_staticFiles.py)
-1. [url_for fallið](8_urlfor.py)
 1. [Basic Data structure](datastructures.py)
    
 #### Vika 2
@@ -13,6 +12,7 @@
 1. [Redirects](6_redirects.py)
 1. [Dynamic Routing](3_dynamicRoutes.py)
 1. [Dynamic Routing and Varible rules](4_dynamicRoutesVariableRules.py)
+1. [url_for fallið](8_urlfor.py)
 
 
 
