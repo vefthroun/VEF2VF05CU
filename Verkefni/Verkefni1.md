@@ -11,8 +11,12 @@
 1. [404 Error](https://github.com/vefthroun/Vefforritun1/blob/main/Kennsluefni/1-Flask/Routes/5_errorHandlingStatusCodes.py) vefsíða sýnir textaskilaboð (frá breytu) og einhverja skemmtilega 404 mynd ([static skrá](https://github.com/vefthroun/Vefforritun1/blob/main/Kennsluefni/1-Flask/Routes/7_staticFiles.py)) **(20%)**
 1. Notaðu [New CSS](https://newcss.net/) CSS safnið fyrir útlit og uppsetningu **(20%)**
 
-Innihald (gögn) eiga aldrei að vera skrifuð beint í html!
 
+### Skráarskipulag
+- Templateskrár sem í grunninn byggir á HTML geymast í möppu sem nefnist `templates`.
+- Stílsíður (CSS), myndir, JavaScript og önnur `binary` skjöl fara í möppu sem nefnist `static`.
+- Gögn eru ýmist vistuð í lista, dictionary, skrám eða gagnagrunna. Innihald (gögn) eiga aldrei að vera skrifuð beint í html!
+  
 ---
 
 ### Námsmat og skil
