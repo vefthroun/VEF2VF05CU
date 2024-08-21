@@ -5,18 +5,18 @@ app = Flask(__name__)
 @app.route('/')
 @app.route('/index')
 def demo2():
-    return "Halló Heimur!"
+    return "Halló Heimur! index"
 
 # undirsíða
 @app.route('/demo1')
 def demo1():
     # skilum textastreng í vafra
-    return "Halló Heimur!"
+    return "Halló Heimur! demo1"
 
 # blöndum saman html elementum og texta í streng sem við skilum.
 @app.route('/demo2')
 def demo2():
-    return "<h1>Halló Heimur!</h1>"
+    return "<h1>Halló Heimur! demo2</h1>"
 
 # Við getum skilað html vefsíðu sem streng
 @app.route('/demo3')
