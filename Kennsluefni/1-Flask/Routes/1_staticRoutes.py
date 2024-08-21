@@ -1,26 +1,26 @@
 from flask import Flask
 app = Flask(__name__)
 
-@app.route('/demo1')
-def demo1():
-    # skilum textastreng í vafra
-    return "Halló Heimur!"
-
 # You can bind more than one route to a single callback (Chaining Decorators)
 @app.route('/')
 @app.route('/index')
 def demo2():
     return "Halló Heimur!"
 
+# undirsíða
+@app.route('/demo1')
+def demo1():
+    # skilum textastreng í vafra
+    return "Halló Heimur!"
+
 # blöndum saman html elementum og texta í streng sem við skilum.
-@app.route('/')
-@app.route('/index')
-def demo3():
+@app.route('/demo2')
+def demo2():
     return "<h1>Halló Heimur!</h1>"
 
 # Við getum skilað html vefsíðu sem streng
-@app.route('/')
-def demo4():
+@app.route('/demo3')
+def demo3():
     # breyta sem geymir html í strengjaformi
     html = '''
     <!DOCTYPE html>
