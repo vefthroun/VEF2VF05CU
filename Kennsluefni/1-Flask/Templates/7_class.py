@@ -20,6 +20,7 @@ def index():
     # dictionary
     kwargs = { "moons": moons }
 
+    # nánar um **kvargs https://book.pythontips.com/en/latest/args_and_kwargs.html
     return render_template("template7.html", **kwargs)
 
 if __name__ == '__main__':
