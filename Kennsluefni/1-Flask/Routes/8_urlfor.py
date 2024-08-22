@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "<a href="{{ url_for('index') }}">Link To Index</a>"    # dæmi um html hlekk: 
+    return "index"    
 
 @app.route('/sida1')
 def sida1():
