@@ -8,6 +8,9 @@ app = Flask(__name__)
 # https://youtu.be/Ofy_jRHE3no?list=PLXmMXHVSvS-CoYS177-UvMAQYRfL3fBtX
 
 
+# Vísun í static möppu sem inniheldur CSS skrá (auðveldara að nota með template):  
+# url_for('static', filename='style.css') 
+
 @app.route('/')
 def index():
     return "index"    
@@ -27,8 +30,6 @@ def sida3(name):
     return "The name is " + name  # The name is Gunnar
 
 
-# Vísun í static möppu sem inniheldur CSS skrá (auðveldara að nota með template):  
-# url_for('static', filename='style.css') 
 
 if __name__ == '__main__':
   app.run(debug=True, use_reloader=True)  
