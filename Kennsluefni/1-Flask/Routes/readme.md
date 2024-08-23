@@ -11,9 +11,8 @@
 #### Vika 2
 1. [Dynamic Routing](3_dynamicRoutes.py)
 1. [Dynamic Routing and Varible rules](4_dynamicRoutesVariableRules.py)
-1. [Redirection Behavior](2_redirectionBehavior.py)
 1. [Redirects](6_redirects.py)
-
+1. [Redirection Behavior](2_redirectionBehavior.py)
 
 ---
 
