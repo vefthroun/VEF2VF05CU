@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 """
 Redirects
-https://flask.palletsprojects.com/en/2.1.x/quickstart/#redirects-and-errors
+https://flask.palletsprojects.com/en/2.3.x/quickstart/#redirects-and-errors
 
 """
 
