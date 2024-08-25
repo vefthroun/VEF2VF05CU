@@ -1,7 +1,4 @@
-
-[Verkefni 2](Verkefni2.md)
-
-#### Kóðasýnidæmi
+### Kóðasýnidæmi
 
 1. [Dynamic Routing](namsefni/dynamic_routes.py)
 1. [include í Jinja2](namsefni/include.py)
@@ -10,7 +7,7 @@
 
 ---
 
-#### Vefslóðir
+### Vefslóðir
 
 - [Pico CSS](https://picocss.com/) 
 - [Understanding URL Routing in Flask](https://www.sitepoint.com/flask-url-routing/)
