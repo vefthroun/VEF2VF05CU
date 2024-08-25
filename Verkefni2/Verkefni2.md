@@ -1,4 +1,4 @@
-## Verkefni 2
+## Verkefni 2 _drög_
 - 15% af heildareinkunn
 - Viðfangsefni: 
    1. Listi með dictionaries
