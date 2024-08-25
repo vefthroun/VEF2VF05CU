@@ -16,7 +16,7 @@
 1. Forsíða inniheldur html töflu, yfirlit yfir allar blogfærslur; höfundur, titill, flokkur, dagsetning og hlekk (hnapp) á blogfærslu. Sýndu einnig heildarfjölda blogfærslna. **20%**
 1. Blogfærsla (undirsíða) inniheldur; titil, málsgrein (textainnihald), mynd, höfund og dagsetningu. Notaðu `div` til að halda utan um blogfærslu. **20%**
 1. Flokkur (undirsíða). Ef notandi velur t.d. hlekkinn **Flask** úr valmynd þá birtist vefsíða einungis með blogfærslum úr þeim flokki. **20%**
-1. Notaðu [Pico]([https://purecss.io/](https://picocss.com/)) safnið fyrir uppsetningu og framsetningu á vef. Vefurinn þarf ekki að vera sveigjanleg (responisve) **20%**
+1. Notaðu [Pico]([https://purecss.io/](https://picocss.com/)) safnið fyrir uppsetningu og framsetningu á vef. **20%**
 
 Engin harðkóðun!
 
