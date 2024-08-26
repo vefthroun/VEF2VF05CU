@@ -44,14 +44,14 @@ blog_posts =  [
             "date_posted": "21.08.2024"
         },
         {
-            "id": ,
+            "id": 3,
             "title": "Hvað er Flask",
             "content": "Flask er microframework ...",
             "picture": "mynd2.JPG",
             "author": "John Doe",
             "category": "Flask",
             "date_posted": "23.08.2024"
-        },    
+        }    
 ]
 
 ```
