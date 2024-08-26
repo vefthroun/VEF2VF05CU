@@ -11,7 +11,7 @@
 ### Verkefnalýsing 
 Útfærðu [blog](https://www.visindavefur.is/svar.php?id=3225) með Flask. Búðu til 10 blogfærslur að eigin vali, notaðu t.d. ChatGPT til að búa til gögnin. Notaðu lista með dictionaries (blogfærslur) sem gagnagrind (datastructure), hér er [sýnidæmi](#data) með blogfærslur.
 
-1. Vefurinn er hlutaður niður með **include** í Jinja2; nav (valmynd), footer (höfundur verkefnis) og hugsanlega blogfærslu. **10%**
+1. Vefurinn er hlutaður niður með **include** í Jinja2; nav (valmynd), footer (höfundur verkefnis) og blogfærslu. **10%**
 1. Valmynd inniheldur hlekki á forsíðu og **3** flokka úr gagnagrind. Sýndu hvaða hlekkur er virkur hverju sinni [sýnidæmi](https://python-web.teclado.com/section12/lectures/03_base_template_and_nav_bar/#highlighting-the-currently-active-page). **10%**
 1. Forsíða inniheldur html töflu, yfirlit yfir allar blogfærslur; höfundur, titill, flokkur, dagsetning og hlekk (hnapp) á blogfærslu. Sýndu einnig heildarfjölda blogfærslna. **20%**
 1. Blogfærsla (undirsíða) inniheldur; titil, málsgrein (textainnihald), mynd, höfund og dagsetningu. Notaðu `div` til að halda utan um blogfærslu. **20%**
