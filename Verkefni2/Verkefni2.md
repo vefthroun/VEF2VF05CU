@@ -3,7 +3,7 @@
 - Viðfangsefni: 
    1. Listi með dictionaries
    1. Dynamic routing 
-   1. Jinja2: include 
+   1. Jinja2: include og if-statement
    1. Pico CSS safnið
 
 ---
