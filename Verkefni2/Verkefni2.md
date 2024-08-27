@@ -58,6 +58,7 @@ blog_posts =  [
 
 **Punktar**
 -  Notaðu `id` úr gagnagrind fyrir url í dynamic route
+-  dæmi um hlekk með _url_for_ `<a href="{{ url_for('flokkur', fl='Flask') }}" ` á dýnamískt route  `@app.route('/flokkur/<fl>')`
 -  Þú gætir þurft að breyta streng í heiltölu t.d. id = int("3")  # breytum "3" í 3 með int()
 
 ---
