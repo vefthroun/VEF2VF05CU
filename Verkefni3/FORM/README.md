@@ -1,20 +1,20 @@
 ## Form  
 
-### 1. HTML form _(skilningur)_
+### 1. HTML form 
 1. [Html Forms leiðbeiningar](https://developer.mozilla.org/en-US/docs/Learn/Forms)  
 1. [HTML Forms (gagnvirkt)](https://www.w3schools.com/html/html_forms.asp) 
 1. [Pico CSS: Form](https://picocss.com/docs/forms)
 
 ---
 
-### 2. FLASK: Form _(skilningur)_
+### 2. FLASK: Form 
 1. [Flask: The Request Object](https://flask.palletsprojects.com/en/3.0.x/quickstart/#the-request-object)
 1. [Einfalt kóðasýnidæmi (login, signup, form): Html Form & Request Object](https://github.com/vefthroun/Vefforritun1/tree/main/Verkefni3/FORM)
 
 
 ---
 
-### 3. Flask-WTF og WTForms _(notum þetta)_
+### 3. Flask-WTF og WTForms 
 The [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.0.x/) extension provides your Flask application integration with WTForms. It uses Python classes to represent web forms (wrapper). `(venv) $ pip3 install flask-wtf`.
 
 [WTForms](https://wtforms.readthedocs.io/en/3.0.x/) is a flexible forms validation and rendering library for Python web development. It can work with whatever web framework and template engine you choose. It supports data validation, CSRF protection etc.
