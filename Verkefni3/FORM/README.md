@@ -9,7 +9,7 @@
 
 ### 2. FLASK: Form _(skilningur)_
 1. [Flask: The Request Object](https://flask.palletsprojects.com/en/3.0.x/quickstart/#the-request-object)
-1. [Einfalt kóðasýnidæmi (login, signup, form): Html Form & Request Object](https://github.com/vefthroun/Namsefni/tree/main/5-FORM/FORM)
+1. [Einfalt kóðasýnidæmi (login, signup, form): Html Form & Request Object](https://github.com/vefthroun/Vefforritun1/tree/main/Verkefni3/FORM)
 
 
 ---
