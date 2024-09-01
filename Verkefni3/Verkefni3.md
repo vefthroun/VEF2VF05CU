@@ -16,7 +16,7 @@
     - Notaðu [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.2.x/) viðbótina til að búa til form með inntaksreitina; notandi (netfang) og lykilorð.
     - formprófun (validation) á inntaksreitum (ekki tóm).
     - Notaðu [flash message](https://flask.palletsprojects.com/en/2.2.x/patterns/flashing/) til að láta vita hvort aðgerð hafi tekist. 
-1.  Notaðu [Session](https://flask.palletsprojects.com/en/3.0.x/quickstart/#sessions) fyrir aðgangsstýringar og auðkenningu (authentication) og. **20%**
+1.  Notaðu [Session](https://flask.palletsprojects.com/en/3.0.x/quickstart/#sessions) fyrir aðgangsstýringar og auðkenningu (authentication). **20%**
     - Það á ekki ekki að vera hægt að fara beint inná adminsíðu nema að hafa aðgang (bara einn notandi), notaðu netfangið `dummy@mail.com` og lykilorðið `123456`.
     - Útfærðu útskráningarvirkni (eyða session)
 1. Adminsíða (admin) sem inniheldur: **20%**
