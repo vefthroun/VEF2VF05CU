@@ -19,5 +19,5 @@ Sessions in essence are used to remember information from one request to another
 1. [Flask sessions](https://flask.palletsprojects.com/en/3.0.x/quickstart/#sessions)
 1. [Sessions in Flask](https://testdriven.io/blog/flask-sessions/)
 1. [Session-based Authentication in flask](https://syscrews.medium.com/session-based-authentication-in-flask-d43fe36afc0f)
-1. [Sessions authentication kóðasýnidæmi]()
+1. [Sessions authentication kóðasýnidæmi](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni3/Sessions/session_auth.py)
 
