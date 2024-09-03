@@ -1,5 +1,5 @@
 
-## Verkefni 3 _drög_
+## Verkefni 3 
 - 20% af heildareinkunn
 - Viðfangsefni:
   1. Form og viðbætur (Flask-WTF, WTForms, CKEditor)
