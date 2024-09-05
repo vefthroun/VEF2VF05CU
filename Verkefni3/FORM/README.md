@@ -21,7 +21,7 @@ The [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.0.x/) extension provides y
 
 1. Tutorial: User Login Form, [The Flask Mega-Tutorial:  Web Forms](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms) _(vefgrein) redirect, flash, klasanotkun_
 1. Login sýnidæmi _(youtube)_
-   1. [WTForms in Flask (login)](https://www.youtube.com/watch?v=vzaXBm-ZVOQ) og _[kóðinn](https://github.com/vefthroun/Namsefni/blob/main/WTForms/1_login.py)_
+   1. [WTForms in Flask (login)](https://www.youtube.com/watch?v=vzaXBm-ZVOQ) 
    1. [Using Validators in Flask-WTF](https://youtu.be/jR2aFKuaOBs) og _[kóðinn](https://github.com/PrettyPrinted/youtube_video_code/tree/master/2017/04/24/Using%20Validators%20in%20Flask-WTF%20(Part%202%20of%205)/wtf_validators)_
    1. ítarefni: [Creating a Macro to Reduce Code Duplication](https://youtu.be/J9O0v-iM0TE) og _[kóðinn](https://github.com/PrettyPrinted/youtube_video_code/tree/master/2017/04/28/Flask-WTF%20-%20Creating%20a%20Macro%20to%20Reduce%20Code%20Duplication%20(4%20of%205))_
 1. [Forms and User Input (48 mín)](https://www.youtube.com/watch?v=UIJKdCIEXUQ) _(youtube)_ og [kóðaskrár](https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog/03-Forms-and-Validation) _býr til form.py fyrir klasana, notar flash message. Ath nota email-validator safn fyrir email validator_
