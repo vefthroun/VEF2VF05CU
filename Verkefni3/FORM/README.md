@@ -1,5 +1,3 @@
-## Form  
-
 ### 1. HTML form 
 1. [Html Forms leiðbeiningar](https://developer.mozilla.org/en-US/docs/Learn/Forms)  
 1. [HTML Forms (gagnvirkt)](https://www.w3schools.com/html/html_forms.asp) 
