@@ -1,11 +1,9 @@
 ### Cookies
-Cookies are stored on the client’s computer as text files. The aim is to remember and track data that is relevant to customer usage for better visitor experience and website statistics.
+Cookies are stored on the client’s computer as text files. The aim is to remember and track data that is relevant to customer usage for better visitor experience and website statistics. Cookies also store the expiration time, path, and domain name of its website.
 
 * cookie expires at the end of the browser session or as soon as the browser window is closed. 
 * cookies are stored at client side and are not encrypted in any way. 
 * Never store confidential information in cookies (XSS vulnerabilities).
-
-The **Flask Request object** contains the properties of the cookie. It is a dictionary object for all cookie variables and their corresponding values. Cookies also store the expiration time, path, and domain name of its website.
 
 1. [Flask cookies](https://flask.palletsprojects.com/en/3.0.x/quickstart/#cookies)
 1. [Get and set cookies with Flask](https://pythonbasics.org/flask-cookies/) 
