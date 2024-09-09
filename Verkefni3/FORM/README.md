@@ -17,7 +17,8 @@ The [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.0.x/) extension provides y
 
 [WTForms](https://wtforms.readthedocs.io/en/3.0.x/) is a flexible forms validation and rendering library for Python web development. It can work with whatever web framework and template engine you choose. It supports data validation, CSRF protection etc.
 
-1. Tutorial: User Login Form, [The Flask Mega-Tutorial:  Web Forms](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms) _(vefgrein) redirect, flash, klasanotkun_
+1. [Flask-WTF](https://www.tutorialspoint.com/flask/flask_wtf.htm) _vefgrein_
+1. Tutorial: User Login Form, [The Flask Mega-Tutorial:  Web Forms](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms) _(tutorial) redirect, flash, klasanotkun_
 1. Login sýnidæmi _(youtube)_
    1. [WTForms in Flask (login)](https://www.youtube.com/watch?v=vzaXBm-ZVOQ) 
    1. [Using Validators in Flask-WTF](https://youtu.be/jR2aFKuaOBs) og _[kóðinn](https://github.com/PrettyPrinted/youtube_video_code/tree/master/2017/04/24/Using%20Validators%20in%20Flask-WTF%20(Part%202%20of%205)/wtf_validators)_
