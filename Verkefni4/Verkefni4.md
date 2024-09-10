@@ -18,7 +18,7 @@
     - textalýsing bíómyndar (overview)
     - lengd bíómyndar (runtime)
     - útgáfudagur bíómyndar (release_date), íslensk dagsetning
-    - Helstu leikarar
+    - helstu leikarar (ekki allir)
     - trailer (youtube) sem spilast á sömu síðu
 1. Í valmynd er hlekkur á forsíðu, Um mig og leitarreitur þar sem hægt er að leita að ákveðinni bíómynd úr TMDB gagnagrunninum. **20%**
 1. Hægt er að uppfæra upplýsingar (edit) í Um mig (_profile_), gögn eru skráð og sótt í JSON skrá. **20%**
