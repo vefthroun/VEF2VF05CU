@@ -29,7 +29,6 @@
 1. Paginate data from API? [Pagination in Flask: Split Your Data Inot Pages](https://www.youtube.com/watch?v=U18hO1ngZEQ) (youtube) 
 -->
 
----
 
 #### Dæmi um gögn
 Hlekkurinn / API endpoint [https://api.themoviedb.org/3/discover/movie?api_key=???](https://api.themoviedb.org/3/discover/movie?api_key=???) skilar upplýsingum um 20 myndir á fyrstu síðu ( page ) af 500.  Til að fá næstu 20 myndir eða myndir af síðu 2 þaftu að bæta við skilyrðinu / flagginu &page=2 fyrir aftan api_key eða [https://api.themoviedb.org/3/discover/movie?api_key=???&page=2](https://api.themoviedb.org/3/discover/movie?api_key=???&page=2) 
