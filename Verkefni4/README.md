@@ -60,7 +60,7 @@
 ---
 
 ### API
-[API](https://www.youtube.com/watch?v=s7wmiS2mSXY) (application programming interface) stendur fyrir forritunarviðmót. API er notað til að sækja gögn á milli kerfa, [nánar um APIs](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/).
+[API](https://www.youtube.com/watch?v=s7wmiS2mSXY) (application programming interface) stendur fyrir forritunarviðmót. API er notað til að sækja gögn á milli kerfa, [nánar um API](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/).
 
 <details>
 <summary>Bjargir</summary>
