@@ -49,7 +49,6 @@
 * [CRUD aðgerðir með JSON skrá](https://tecadmin.net/crud-operations-on-json-files-with-python/#google_vignette)
 * [CRUD aðgerðir með Flask og JSON](https://github.com/oritzio/flask_crud_json)
 
-<br>
 
 <!--
 > [Certify](https://certifi.io/) <br>
@@ -103,7 +102,7 @@ There’s an amazing amount of data available on the Web. Many web services, lik
 </details>
 -->
 
-<br>
+
 
 ---
 
@@ -128,7 +127,3 @@ _Það væri einnig hægt að nota strengjavinnslu og regex til að fá íslensk
 - [Python Datetime Tutorial: Manipulate Times, Dates, and Time Spans](https://www.dataquest.io/blog/python-datetime-tutorial/)
 
 </details>
-
-<br>
-
----
