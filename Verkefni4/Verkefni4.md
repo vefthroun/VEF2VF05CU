@@ -1,4 +1,4 @@
-## Verkefni 4  _drög_
+## Verkefni 4  
 - 20% af heildareinkunn
 - Viðfangsefni:
   - CRUD aðgerðir með JSON skrá
