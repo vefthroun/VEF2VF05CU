@@ -31,13 +31,6 @@
 
 ---
 
-### Námsmat og skil  
-- Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hluta til kominn og ekkert ef hann vantar.
-- Skilaðu þjappaðri (zip/rar) möppu með öllum skrám (ekki venv) á Innu.
-
-
----
-
 ### Dæmi um gögn
 Hlekkurinn / API endpoint [https://api.themoviedb.org/3/discover/movie?api_key=???](https://api.themoviedb.org/3/discover/movie?api_key=???) skilar upplýsingum um 20 myndir á fyrstu síðu ( page ) af 500.  Til að fá næstu 20 myndir eða myndir af síðu 2 þaftu að bæta við skilyrðinu / flagginu &page=2 fyrir aftan api_key eða [https://api.themoviedb.org/3/discover/movie?api_key=???&page=2](https://api.themoviedb.org/3/discover/movie?api_key=???&page=2) 
 
@@ -130,3 +123,7 @@ Hlekkurinn / API endpoint [https://api.themoviedb.org/3/movie/550?api_key=???](h
   "vote_count": 3439
 }
 ```
+
+### Námsmat og skil  
+- Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hluta til kominn og ekkert ef hann vantar.
+- Skilaðu þjappaðri (zip/rar) möppu með öllum skrám (ekki venv) á Innu.
