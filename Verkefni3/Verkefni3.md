@@ -30,6 +30,10 @@
 1. Notaðu [Pico CSS](https://picocss.com/docs/forms) fyrir form, uppsetningu og framsetningu. **10%**
 
 
+#### Punktar
+
+- Dæmi um leið til að vinna með id: `def find_next_id(): return max(blog["id"] for blog in blogs) + 1`
+  
 ---
 
 ### Námsmat og skil 
