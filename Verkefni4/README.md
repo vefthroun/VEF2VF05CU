@@ -65,11 +65,9 @@
 <details>
 <summary>Bjargir</summary>
 <br>
-
-- [Postman VSCode viðbót](JSON/VSC_Postman/README.md)
-- [TMDB endpoints](JSON/tmdb_endpoints.md)
+  
 - [Leit: form og leit í Weather API (með api key)](https://www.youtube.com/watch?v=jQjjqEjZK58)
-
+- [Postman VSCode viðbót](JSON/VSC_Postman/README.md)
 <!--
 > [xmltodict 0.13.0](https://pypi.org/project/xmltodict/) _Makes working with XML feel like you are working with JSON_
 -->
