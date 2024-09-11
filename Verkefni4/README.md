@@ -68,7 +68,6 @@
 
 - [Postman VSCode viðbót](JSON/VSC_Postman/README.md)
 - [TMDB endpoints](JSON/tmdb_endpoints.md)
-- [TMDB skráning](JSON/join_TMDB/README.md)
 - [Leit: form og leit í Weather API (með api key)](https://www.youtube.com/watch?v=jQjjqEjZK58)
 
 <!--
