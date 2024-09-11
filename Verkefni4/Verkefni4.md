@@ -26,7 +26,6 @@
 
 <!--
 1. Helstu leikarar og hlekkir á undirsíðu til að fá nánari upplýsingar
-1. Paginate data from API? [Pagination in Flask: Split Your Data Inot Pages](https://www.youtube.com/watch?v=U18hO1ngZEQ) (youtube) 
 -->
 
 
