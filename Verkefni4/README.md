@@ -40,7 +40,6 @@
 <summary>Bjargir</summary>
 <br>
 
-* [JSON in Python (W3Schools)](https://www.w3schools.com/python/python_json.asp)
 * [JSON Support in Flask](https://tedboy.github.io/flask/interface_api.json_support.html#module-flask.json)
 * [Python's urllib.request for HTTP Requests](https://realpython.com/urllib-request/)
 * [Fixing the SSL CERTIFICATE_VERIFY_FAILED Error](https://realpython.com/urllib-request/#fixing-the-ssl-certificate_verify_failed-error), hér er dæmi um [kóðalausn](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni4/JSON/certifi_fix.PNG)
