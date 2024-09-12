@@ -60,19 +60,11 @@
 ---
 
 ### API
-[API](https://www.youtube.com/watch?v=s7wmiS2mSXY) (application programming interface) stendur fyrir forritunarviðmót. API er notað til að sækja gögn á milli kerfa, [nánar um API](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/).
+[API](https://www.youtube.com/watch?v=s7wmiS2mSXY) (application programming interface) stendur fyrir forritunarviðmót. API er notað til að sækja gögn á milli kerfa, [nánar um API](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/). Hér [Postman VSCode viðbót](JSON/VSC_Postman/README.md) til að prófa að gera API fyrirspurnir.
 
-<details>
-<summary>Bjargir</summary>
-<br>
-  
-- [Leit: form og leit í Weather API (með api key)](https://www.youtube.com/watch?v=jQjjqEjZK58)
-- [Postman VSCode viðbót](JSON/VSC_Postman/README.md)
 <!--
 > [xmltodict 0.13.0](https://pypi.org/project/xmltodict/) _Makes working with XML feel like you are working with JSON_
 -->
-
-</details>
 
 <details>
 <summary>Að búa til sinn eigin REST API <em>(ítarefni)</em></summary>
