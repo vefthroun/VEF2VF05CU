@@ -27,7 +27,7 @@
 1. [Að lesa úr JSON skrá](JSON/5_lesa_skra.py)
 1. [Að skrifa í skrá](JSON/6_skrifaSkra.py)
 1. [Að skrifa í JSON skrá](JSON/6_skrifa_Json_skra.py)
-1. [Að lesa úr JSON skrá hýst á netinu með urllib](JSON/7_urllib_request.py)
+1. [Að lesa úr JSON skrá hýst á Github (https) með urllib](JSON/7_urllib_request.py)
 1. Flask: [Að sækja JSON frá API](JSON/API.py)
 
 <!-- 
