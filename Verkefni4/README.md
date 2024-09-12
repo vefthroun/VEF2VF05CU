@@ -7,10 +7,8 @@
   
  * key/value parasamband
  * {}, slaufusvigi eru utan um JSON object og innri objecta
- * key verður að vera með tvöföldum gæsalöppum og vera strengur
+ * key verður að vera með **tvöföldum gæsalöppum** og vera strengur
  * key/value parasambönd eru aðgreind með kommu
- * [], hornklofi er utan um lista/fylki
- * JSON hefur ekki föll
  * Ekki hægt að commenta í JSON skrá
  * JSON skráarsnið er með .json endingu
  * Þú getur notað JSONLint til að validate JSON. http://jsonlint.com/ 
