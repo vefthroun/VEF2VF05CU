@@ -12,7 +12,7 @@ certifi_context = ssl.create_default_context(cafile=certifi.where()) # muna að 
 app = Flask(__name__)
 
 # genres request þarf að vera globalt, sent í öll route
-with urllib.request.urlopen("https://api.themoviedb.org/3/genre/tv/list?language=en&api_key=d4ad6c1995ecb0273dbc807fc0395d37", context=certifi_context) as url:
+with urllib.request.urlopen("https://api.themoviedb.org/3/genre/tv/list?language=en&api_key=", context=certifi_context) as url:  # vantar runu fyrir key
    data = json.loads(url.read())
    # data = json.loads(url.read().decode('utf-8'))
 
