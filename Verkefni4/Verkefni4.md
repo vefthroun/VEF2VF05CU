@@ -22,7 +22,7 @@
     - trailer (youtube) sem spilast á sömu síðu
 1. Í valmynd er hlekkur á forsíðu, Um mig og leitarreitur þar sem hægt er að leita að ákveðinni bíómynd úr TMDB gagnagrunninum. Sýnidæmi [leit í Weather API](https://www.youtube.com/watch?v=jQjjqEjZK58). **20%**
 1. Hægt er að uppfæra upplýsingar (edit) í Um mig (_profile_), gögn eru skráð og sótt í JSON skrá. **20%**
-1. Notaðu Pico CSS grids fyrir uppsetningu (layout) og hluti (components) sem eiga við. **10%**
+1. Notaðu eigið CSS Grids fyrir uppsetningu (layout) og Pico CSS fyrir annað einsog hluti (components) sem eiga við. **10%**
 
 <!--
 1. Helstu leikarar og hlekkir á undirsíðu til að fá nánari upplýsingar
