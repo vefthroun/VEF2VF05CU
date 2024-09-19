@@ -3,7 +3,7 @@
 - Viðfangsefni:
   - CRUD aðgerðir með JSON skrá
   - Vinna með API
-  - Pico CSS: Grids uppsetning (Layout) og hlutir (Components)
+  - CSS Grids uppsetning (Layout) og PicoCSS 
 
 ---
 
