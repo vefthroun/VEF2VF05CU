@@ -1,5 +1,4 @@
-## Verkefni 5 _drög_
-
+## Verkefni 5 
 - 35% af heildareinkunn
 - **Lykilmatsþáttur**
 - Viðfangsefni: Allt námsefni 
