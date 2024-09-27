@@ -16,7 +16,7 @@
 
 ---
 
-## Routing (vefgreinar)
+### Routing (vefgreinar)
 
 - [Quick start: Flask Routing](https://flask.palletsprojects.com/en/3.0.x/quickstart/)
 - [The Art of Routing in Flask](https://hackersandslackers.com/flask-routes)
