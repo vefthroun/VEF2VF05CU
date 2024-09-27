@@ -7,7 +7,7 @@
 
 ### Verkefnalýsing
 
-Útfærðu vef með Flask tengt áhugamáli þar sem þú notar upplýsingar frá API (TMDB API er ekki í boði) ásamt því að vera með persónulegt blogg tengt áhugamálinu, [sýnidæmi](https://blog-admin-ui.netlify.app/). Efnisval (texti og myndir) er valfrjálst en nemendur mega ekki vera með sama API. Gert er ráð fyrir sjálfstæðum vinnubrögðum. 
+Útfærðu vef með Flask tengt áhugamáli þar sem þú notar upplýsingar frá API (TMDB API er ekki í boði) ásamt því að vera með persónulegt blogg tengt áhugamálinu. Efnisval (texti og myndir) er valfrjálst en nemendur mega ekki vera með sama API. Gert er ráð fyrir sjálfstæðum vinnubrögðum. 
 <details>
 <summary>Listi af APIs </summary>
   
@@ -32,7 +32,7 @@ Námsefni: verkefni 1-4 (70%)
 1. API notkun (ekki TMDB) til að sækja gögn sem birtast á vef, lágmark 2 fyrirspurnir. **(10%)**
 1. Notkun á dynamic route og errorhandler (404 villa) **(5%)**
 1. Login, sessions, validation og einföld auðkenning fyrir einn notanda (admin@admin.is og lykilorðið 123456), logout. **(5%)**
-1. Admin (dashboard) með töfluuppsetningu, hnapp til að eyða blogfærslu, hnapp á síðu til að uppfæra blogfærslu, hnapp á síðu til að búa til blogfærslu. **(5%)**
+1. Admin (dashboard) með töfluuppsetningu, hnapp til að eyða blogfærslu, hnapp á síðu til að uppfæra blogfærslu, hnapp á síðu til að búa til blogfærslu, [sýnidæmi](https://blog-admin-ui.netlify.app/). **(5%)**
 1. Vefsíða með form (Flask-WTF, WTForms, CKEditor, FLash) til að skrifa nýja blogfærslu og uppfæra (edit). **(5%)**
 1. Vefsíða sem birtir blogfærslur með röðun (nýjast efst). **(5%)**
 1. CRUD aðgerðir á JSON skrá (blogfærslur). **(10%)**
