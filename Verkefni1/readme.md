@@ -16,7 +16,7 @@
 
 ---
 
-### Routing (vefgreinar)
+### Routing
 
 - [Quick start: Flask Routing](https://flask.palletsprojects.com/en/3.0.x/quickstart/)
 - [The Art of Routing in Flask](https://hackersandslackers.com/flask-routes)
@@ -25,7 +25,7 @@
 
 ---
 
-### [Jinja](https://jinja.palletsprojects.com/en/3.0.x/templates/) (vefgreinar og myndbönd)
+### [Jinja](https://jinja.palletsprojects.com/en/3.0.x/templates/) 
 
 1. [What is Jinja2?](https://python-web.teclado.com/section07/lectures/03_what_is_jinja2/)
 1. [Variables & dictionary](https://youtu.be/pJ8V51XJuf0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04) (video)
