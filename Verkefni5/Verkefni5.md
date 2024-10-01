@@ -29,7 +29,7 @@ Námsefni: verkefni 1-4 (70%)
 1. Jinja: inheritance, include, skilyrðissetnignar, lykkjunotkun, filter, url_for, breytur. **(10%)**
 1. PicoCSS safn fyrir uppsetningu og útlit. **(10%)**
 1. Valmynd sem er breytileg, með leit og sýnir hvaða hlekkur er virkur hverju sinni **(5%)**
-1. API notkun (ekki TMDB) til að sækja gögn sem birtast á vef, lágmark 2 fyrirspurnir. **(10%)**
+1. API notkun (ekki TMDB) til að sækja gögn sem birtast á vef, lágmark 2 mismunandi fyrirspurnir. **(10%)**
 1. Notkun á dynamic route og errorhandler (404 villa) **(5%)**
 1. Login, sessions, validation og einföld auðkenning fyrir einn notanda (admin@admin.is og lykilorðið 123456), logout. **(5%)**
 1. Admin (dashboard) með töfluuppsetningu, hnapp til að eyða blogfærslu, hnapp á síðu til að uppfæra blogfærslu, hnapp á síðu til að búa til blogfærslu, [sýnidæmi](https://blog-admin-ui.netlify.app/). **(5%)**
