@@ -11,7 +11,7 @@
  
 Útfærðu vefforrit í Flask sem nýtir JSON skrá og API. Notum [Open Trivia Database](https://opentdb.com) / [Trivia API](https://opentdb.com/api_config.php).  Þetta er opin API, hér þarf ekki að skrá sig inn / ekki að sækja svokallað api_key.
 
-Verkefnið gengur út að að útfæra vefforrit sem birti spurningar, sem fengnar eru í gegnum API [Open Trivia Database](https://opentdb.com), og gefur notanda valkosti um svör (True/False eða Valmöguleikar).  Kerfið heldur utan um rétt / röng svör notanda og tekur saman fjölda réttra svara í lokin.  Aðeins innskráðir notendur geta notað kerfið.  Admin notandi (user:dummy@mail.com, password:123456) býr til almenna notendur (sjá hér að neðan) og getur breytt og eytt þessum upplýsingum sem vistaðar eru í JSON skrá.
+Verkefnið gengur út að að útfæra vefforrit sem birtir spurningar, sem fengnar eru í gegnum API [Open Trivia Database](https://opentdb.com), og gefur notanda valkosti um svör (True/False eða Valmöguleikar).  Kerfið heldur utan um rétt / röng svör notanda og tekur saman fjölda réttra svara í lokin.  Aðeins innskráðir notendur geta notað kerfið.  Admin notandi (user:dummy@mail.com, password:123456) býr til almenna notendur (sjá hér að neðan) og getur breytt og eytt þessum upplýsingum sem vistaðar eru í JSON skrá.
 
 1. Á forsíðu (index) skal birta almennar upplýsingar um vefsíðuna / vefkerfið og leiðbeiningar um hvernig skuli nota vefsíðuna.  Þessar upplýsingar eiga að koma úr gagnagrind í app.py skrá **5%**
 1. Valmynd skal innihalda hlekki á forsíðu og innskráningu.  Ef almennur notandi er innskráður skal birta útskráningar hlekk, Ef admin notandi er innskráður skal birta admin hlekk og útskráningar hlekk **5%**
