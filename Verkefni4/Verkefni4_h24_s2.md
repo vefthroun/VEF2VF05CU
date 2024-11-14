@@ -95,6 +95,35 @@ Hér er hægt að búa til fleiri API endpoint [Trivia API](https://opentdb.com/
 
 </details>
 
+<details>
+<summary>Flokkar ( kóði bak við flokk ) :</summary>
+<br>
+  Any = sleppum að setja inn parametra nema fjölda spurninga ( amount )
+General Knowlege = 9
+Books = 10
+Film = 11
+Music = 12
+Musical & Theatres = 13
+Television = 14
+Videogames  = 15
+Boardgames = 16
+Science & Nature = 17
+Science:Computers = 18
+Science:Mathematics = 19
+Mythology = 20
+Sports = 21
+Geography = 22
+History = 23
+Politics = 24
+Art = 25
+Celebrities = 26
+Animals = 27
+Vehicles = 28
+Comics = 29
+Gadgets = 30
+Japanese Anime & Manga = 31
+Cartoon & Animation = 32
+</details>
 ---
 
 ### Námsmat og skil  
