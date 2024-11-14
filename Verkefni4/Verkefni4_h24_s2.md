@@ -98,9 +98,9 @@ Hér er hægt að búa til fleiri API endpoint [Trivia API](https://opentdb.com/
 <details>
 <summary>Flokkar ( kóði bak við flokk ) :</summary>
 <br>
-1. Any = sleppum að setja inn parametra nema fjölda spurninga ( amount )
-1. General Knowlege = 9
-1. Books = 10
+-  Any = sleppum að setja inn parametra nema fjölda spurninga ( amount )
+-  General Knowlege = 9
+-  Books = 10
 1. Film = 11
 1. Music = 12
 1. Musical & Theatres = 13
