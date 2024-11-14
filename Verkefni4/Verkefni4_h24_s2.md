@@ -98,31 +98,31 @@ Hér er hægt að búa til fleiri API endpoint [Trivia API](https://opentdb.com/
 <details>
 <summary>Flokkar ( kóði bak við flokk ) :</summary>
 <br>
-  Any = sleppum að setja inn parametra nema fjölda spurninga ( amount )
-General Knowlege = 9
-Books = 10
-Film = 11
-Music = 12
-Musical & Theatres = 13
-Television = 14
-Videogames  = 15
-Boardgames = 16
-Science & Nature = 17
-Science:Computers = 18
-Science:Mathematics = 19
-Mythology = 20
-Sports = 21
-Geography = 22
-History = 23
-Politics = 24
-Art = 25
-Celebrities = 26
-Animals = 27
-Vehicles = 28
-Comics = 29
-Gadgets = 30
-Japanese Anime & Manga = 31
-Cartoon & Animation = 32
+1. Any = sleppum að setja inn parametra nema fjölda spurninga ( amount )
+1. General Knowlege = 9
+1. Books = 10
+1. Film = 11
+1. Music = 12
+1. Musical & Theatres = 13
+1. Television = 14
+1. Videogames  = 15
+1. Boardgames = 16
+1. Science & Nature = 17
+1. Science:Computers = 18
+1. Science:Mathematics = 19
+1. Mythology = 20
+1. Sports = 21
+1. Geography = 22
+1. History = 23
+1. Politics = 24
+1. Art = 25
+1. Celebrities = 26
+1. Animals = 27
+1. Vehicles = 28
+1. Comics = 29
+1. Gadgets = 30
+1. Japanese Anime & Manga = 31
+1. Cartoon & Animation = 32
 </details>
 ---
 
