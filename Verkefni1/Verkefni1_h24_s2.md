@@ -3,7 +3,7 @@
 
 ---
 
-Útfærðu einfaldan vef með [Flask](https://flask.palletsprojects.com/en/2.3.x/) og einföldu [Jinja](https://jinja.palletsprojects.com/en/3.0.x/templates/) template (ekki nota _include_ eða _inheritance_ í þessu verkefni). Vefurinn inniheldur tvær vefsíður auk 404 error vefsíðu (error_route). Innihald vefsíðunnar skal vera áhugamál.  Notaðu VSCode ritilinn og settu upp FLASK í [**VENV** umhverfi](https://code.visualstudio.com/docs/python/environments).
+Útfærðu einfaldan vef með [Flask](https://flask.palletsprojects.com/en/2.3.x/) og einföldu [Jinja](https://jinja.palletsprojects.com/en/3.0.x/templates/) template (ekki nota _include_ eða _inheritance_ í þessu verkefni). Vefurinn inniheldur tvær vefsíður auk 404 error vefsíðu (error_route). Innihald vefsíðunnar skal vera áhugamál.  Notaðu VSCode ritilinn og settu upp FLASK í **VENV** umhverfi.
 
 1. Láréttur menu á vefsíðu sem inniheldur tvo hlekki. Notaðu [static route](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni1/namsefni/staticRoutes.py) fyrir síðurnar og [url_for](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni1/namsefni/urlfor.py) fyrir hlekkina í menu. **(20%)**
 1. Forsíðan inniheldur menu og ljósmynd [static skrá](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni1/namsefni/staticFiles.py) sem tengist áhugamálinu **(10%)**
