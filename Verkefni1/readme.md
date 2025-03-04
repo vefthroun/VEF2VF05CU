@@ -13,6 +13,7 @@
 1. [Quick start: Flask Routing](https://flask.palletsprojects.com/en/3.0.x/quickstart/)
 1. [The Art of Routing in Flask](https://hackersandslackers.com/flask-routes)
 1. [Query Strings (pdf)](https://github.com/vefthroun/Namsefni/blob/main/1-HTTPS/QueryString_GETRequest_Routing.pdf)
+2. [The HTTP Protocol](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 
 ---
 
