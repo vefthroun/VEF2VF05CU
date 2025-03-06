@@ -15,7 +15,7 @@
 
 ## Maí 2025 
 
-- Föstudagur 02.05.2025 - Markmið: Verkfni 4 lokið 
+- Föstudagur 02.05.2025 - Markmið: Verkefni 4 lokið 
   - Sunnudagur 04.05.2025 - 23:59.
 
 - Föstudagur 16.05.2025 - Markmið: Verkefni 5 lokið. 
