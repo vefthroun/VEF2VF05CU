@@ -10,7 +10,7 @@
 
 ## Apríl 2025 
 
--Föstudagur 04.04.2025 - Markmið: Verkefni 3 lokið 
+- Föstudagur 04.04.2025 - Markmið: Verkefni 3 lokið 
   - Sunnudagur 13.04.2025 - 23:59.
 
 ## Maí 2025 
