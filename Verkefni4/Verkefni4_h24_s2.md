@@ -46,7 +46,7 @@ Hér er hægt að búa til fleiri API endpoint [Trivia API](https://opentdb.com/
 
 <details>
 <summary>Dæmi um gögn:</summary>
-<br><br>
+<br>
   
 ```python
 
