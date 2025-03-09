@@ -9,7 +9,7 @@
 ---
 
 ### Verkefnalýsing 
-Útfærðu lítinn vef sem heldur utan um vörulista (Pizzur) með Flask. Notaðu lista með dictionaries (vörulistinn) sem gagnagrind (datastructure).  Hér fyrir neðan er gagnagrind sem þú getur notað en þú mátt búa til þína eigin.  Hér eru [myndir](https://github.com/vefthroun/Vefforritun1/tree/main/Verkefni2/v2_h24_s2/img) sem þú getur notað.
+Útfærðu lítinn vef sem heldur utan um vörulista (Pizzur) með Flask. Notaðu lista með dictionaries (vörulistinn) sem gagnagrind (datastructure).  Hér fyrir neðan er gagnagrind sem þú getur notað en þú mátt búa til þína eigin.  Hér eru [myndir](https://github.com/vefthroun/Vefforritun1/tree/main/Verkefni2/img) sem þú getur notað.
 
 1. Vefurinn er hlutaður niður með **include** í Jinja2; nav (valmynd), footer (höfundur verkefnis) og vörulista. **10%**
 1. Valmynd inniheldur hlekki á forsíðu og **3** flokka úr gagnagrind kjöt / sterk / vegan. Sýndu hvaða hlekkur er virkur hverju sinni [sýnidæmi](https://python-web.teclado.com/section12/lectures/03_base_template_and_nav_bar/#highlighting-the-currently-active-page). **10%**
