@@ -1,6 +1,7 @@
 from flask import Flask
 app = Flask(__name__)
 
+globalGildi = ' og Jón Jónsson'
 # breyta
 @app.route('/demo1')
 def demo1():
@@ -21,7 +22,8 @@ def demo2():
 def demo3():
     data = {'username': 'Gunnar'}
     print(data)
-    return  "<h1>Halló " + data['username'] + "!</h1>"
+    print(globalGildi)
+    return  "<h1>Halló " + data['username'] + globalGildi + "!</h1>"
     # líka hægt að nota get aðferð, data.get('username')  skilar NONE en ekki villumeldingu ef það vantar gildi
 
 # listi

@@ -4,7 +4,7 @@ app = Flask(__name__)
 # You can bind more than one route to a single callback (Chaining Decorators)
 @app.route('/')
 @app.route('/index')
-def demo2():
+def index():
     return "Halló Heimur! index"
 
 # dæmi um undirsíðu
