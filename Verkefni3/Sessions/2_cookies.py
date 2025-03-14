@@ -16,7 +16,7 @@ def cookies():
     resp.set_cookie(
         "flavor2", 
         value="chocolate chip",
-        max_age=10,  # expires in 10 seconds
+        max_age=5,  # expires in 10 seconds
     ) 
 
     return resp     # skilar "Cookies" streng í vafrann
