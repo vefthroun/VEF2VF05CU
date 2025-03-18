@@ -8,7 +8,17 @@
 
 ---
 
-### Vefslóðir
+### URL routing
 
-- [Pico CSS](https://picocss.com/) 
 - [Understanding URL Routing in Flask](https://www.sitepoint.com/flask-url-routing/)
+
+### Jinja 
+
+1. [Loops & inheritance](https://youtu.be/APh3jdVryF0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04) (video) 
+1. [Rendering Pages in Flask Using Jinja](https://hackersandslackers.com/flask-jinja-templates) (vefgrein)
+
+### CSS
+
+- [New CSS](https://newcss.net/)
+- [Pico CSS](https://picocss.com/) 
+
