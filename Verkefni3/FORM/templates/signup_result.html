@@ -4,23 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Skráning</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
     <style>
         table {
             border-collapse: collapse;
+            max-width: 48rem;
+            margin: auto;
         }
-        table, th, td {
-            border: 1px solid black;
+        th, td {
+            border-bottom: 1px solid black;
+        }
+        tfoot td{
+            text-align: center;
         }
     </style>
 </head>
 <body>
     <table>
+        <thead>
+            <tr>
+                <th>Key</th>
+                <th>Value</th>
+            </tr>
+        </thead>
+        <tbody>
         {% for key, value in result.items() %}
            <tr>
               <th> {{ key }} </th>
               <td> {{ value }} </td>
            </tr>
         {% endfor %}
+        </tbody>
+        <tfoot>
+            <td colspan="2">VEFÞ2VF 2025</td>
+        </tfoot>
      </table>
 </body>
 </html>

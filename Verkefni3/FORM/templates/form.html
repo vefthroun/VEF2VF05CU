@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Form</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 </head>
 <body>
     <!-- url_for()  means "redirect to /form route when the form is submitted" -->
-    <form action="{{ url_for('form') }}" method="post">
+    <form action="{{ url_for('form') }}" method="post" class="container">
         <fieldset>
             <legend>Bókaskráning</legend>
             <p>
