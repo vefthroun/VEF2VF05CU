@@ -1,18 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Innskráning</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-</head>
-<body class="container">
-    <h1>Upplýsingar um bók</h1>
+{% extends "base.html" %}
+{% block title %}Bókaskráning{% endblock %}
+{% block header %}{{ title }}{% endblock %}
+{% block main %}
+    <h2>Upplýsingar um bók</h2>
     <ul>
         <li>titill: {{ title }}</li>
         <li>isbn: {{ isbn }}</li>
         <li>höfundur: {{ author }}</li>
         <li>tími skráningar: {{ timestamp }}</li>
     </ul>
- </body>
-</html>
+{% endblock %}
+{% block footer %}{{ author }}{% endblock %}

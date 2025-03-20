@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Innskráning</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-</head>
-<body class="container">
-    <h4>Velkomin/n</h4>
+{% extends "base.html" %}
+{% block title %}Login {{ name }} {% endblock %}
+{% block header %}Velkomin/n{% endblock %}
+{% block main %}
     <h2> {{ name }}</h2>
     <p>Tölvupóstur: {{ email }}</p>
- </body>
-</html>
+{% endblock %}
+{% block footer %} {{ name }} {% endblock %}

@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skráning</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-</head>
-<body>
+{% extends "base.html" %}
+{% block title %}Signup form {% endblock %}
+{% block header %}Skráningarform {% endblock %}
+{% block main %}
     <form action="/signup_process" method="post" class="container">
         <fieldset>
             <legend>Skráning (sign up)</legend>
@@ -32,5 +27,5 @@
             </p>
         </fieldset>
     </form>
-</body>
-</html>
+    {% endblock %}
+    {% block footer %}Nýskráning{% endblock %}

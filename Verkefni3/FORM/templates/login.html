@@ -1,30 +1,25 @@
 
-<!-- Your first form -->
 <!-- https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form -->
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Innskráning</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-</head>
-<body>
+<!-- Jinja inheritance: https://flask.palletsprojects.com/en/stable/patterns/templateinheritance/-->
+{% extends "base.html" %}
+{% block title %}Login form {% endblock %}
+{% block header %}Login form {% endblock %}
+{% block main %}
     <form action="/login_process" method="post" class="container">
         <fieldset>
-            <legend>Innskráning (login)</legend>
+            <legend>Innskráning</legend>
             <p>
-                <label for="name">nafn:</label>
-                <input type="text" id="name" name="user_name">
+                <label for="name">Nafn:</label>
+                <input type="text" id="name" name="user_name" required>
             </p>
             <p>
-                <label for="mail">netfang:</label>
-                <input type="email" id="mail" name="user_email">
+                <label for="mail">Tölvupóstfang:</label>
+                <input type="email" id="mail" name="user_email" required>
             </p>
             <p>
                 <input type="submit" value="Submit">
             </p>
         </fieldset>
     </form>
-</body>
-</html>
+{% endblock %}
+{% block footer %}{% endblock %}

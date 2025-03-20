@@ -1,16 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-</head>
-<body>
+{% extends "base.html" %}
+{% block title %}Formskráning {% endblock %}
+{% block header %}Bókaskráning {% endblock %}
+{% block main %}
     <!-- url_for()  means "redirect to /form route when the form is submitted" -->
     <form action="{{ url_for('form') }}" method="post" class="container">
         <fieldset>
-            <legend>Bókaskráning</legend>
+            <legend>Skráning bókar</legend>
             <p>
                 <label for="title">Titill</label>
                 <input type="text" id="title" name="title">
@@ -28,8 +23,8 @@
             <input type="hidden" id="timestamp" name="timestamp" value="1286705410">
         </fieldset>
     </form>
-</body>
-</html>
+{% endblock %}
+{% block footer %}Bókaskráning{% endblock %}
 <!--
 Hidden content  type="hidden"
 https://developer.mozilla.org/en-US/docs/Learn/Forms/Basic_native_form_controls#hidden_content
