@@ -13,5 +13,6 @@ json_string = json.dumps(d)
 
 # '{"first_name": "Guido", "last_name": "Rossum", "titles": ["BDFL", "Developer"]}'
 print(json_string)
+print(type(json_string))
 
 # json.dumps(x, indent=2)  læsilegra í terminal með print() skipun
