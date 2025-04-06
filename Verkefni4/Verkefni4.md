@@ -11,7 +11,7 @@
  
 Útfærðu vefforrit í Flask sem nýtir JSON skrá og API. Notum [The Movie Database API](https://www.themoviedb.org/) / [Getting started](https://developer.themoviedb.org/docs/getting-started) / [API reference](https://developer.themoviedb.org/reference/intro/getting-started). Nemendur þurfa að skrá sig inn á síðuna (register) og sækja um API key, [leiðbeiningar](JSON/join_TMDB/README.md). Það kostar ekkert að skrá sig (ekki setja inn persónuupplýsingar).
 
-1. Á forsíðu (index) skal birta grunnupplýsingar um 20 random bíómyndir frá _The Movie Database API_. Birta skal nafn (original_title) og mynd (backdrop_path) bíómyndar. **20%**
+1. Á forsíðu (index) skal birta grunnupplýsingar um 20 random bíómyndir frá _The Movie Database API_. Birta skal nafn (original_title) og mynd (backdrop_path) bíómyndar. Svona birtir þú [mynd](https://developer.themoviedb.org/docs/image-basics)**20%**
 1. Ef valin er ein bíómynd af forsíðu er farið á undirsíðu sem birtir nánari upplýsingar um valda bíómynd. **30%**
     - nafn bíómyndar (original_title)
     - mynd 
