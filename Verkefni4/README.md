@@ -48,6 +48,7 @@
 * [CRUD aðgerðir með dictionary](https://www.freecodecamp.org/news/everything-you-need-to-know-about-python-dictionaries/)
 * [CRUD aðgerðir með JSON skrá](https://tecadmin.net/crud-operations-on-json-files-with-python/#google_vignette)
 * [CRUD aðgerðir með Flask og JSON](https://github.com/oritzio/flask_crud_json)
+* [REST API CRUD operations, beginners guide](https://medium.com/@mathur.danduprolu/building-restful-apis-with-flask-a-beginners-guide-to-crud-operations-part-2-7-4ff74083a3ee)
 
 <!-- 
 og [Certify](https://certifi.io/)
