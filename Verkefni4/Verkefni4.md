@@ -34,7 +34,7 @@ Hlekkurinn / API endpoint [https://api.themoviedb.org/3/discover/movie?api_key=?
 
 Hlekkurinn / API endpoint [https://api.themoviedb.org/3/movie/550?api_key=???](https://api.themoviedb.org/3/movie/550?api_key=???) skilar okkur upplýsingum um bíómynd eftir id:  Í þessu tilviki bíómyndin The Fight Club sem hefur id = 550.  Í staðinn fyrir ??? setur þú þinn API key.
 
-Hér eru fleiri dæmi með [TMDB endpoints](JSON/tmdb_endpoints.md).<br<br>
+Hér eru fleiri dæmi með [TMDB endpoints](JSON/tmdb_endpoints.md).<br><br>
 Leikarar, leikstjórar, framleiðendur ákveðinnar myndar: https://api.themoviedb.org/3/movie/{id}/credits?api_key={þinn_lykill}<br>
 Trailerar:  https://api.themoviedb.org/3/movie/{id}/videos?api_key={þinn_lykill}<br>
 Leit eftir nafni: https://api.themoviedb.org/3/search/movie?api_key={þinn_lykill}&query={leitarstrengur}<br>
