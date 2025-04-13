@@ -11,8 +11,9 @@ Nánar: https://realpython.com/python-with-statement/#using-the-python-with-stat
 with open("5.json", mode="r", encoding='utf-8') as skra:
     gogn = json.load(skra) # sækjum data úr Json skrá
 
+print(gogn)
 # Prentum gogn = dictionary 
-#print(gogn["nemandi"])
+print(gogn["nemandi"])
 
 # Prentum nafnið Þórður
 print(gogn["nemandi"][0]["nafn"])

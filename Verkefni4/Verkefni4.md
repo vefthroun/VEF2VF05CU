@@ -11,7 +11,7 @@
  
 Útfærðu vefforrit í Flask sem nýtir JSON skrá og API. Notum [The Movie Database API](https://www.themoviedb.org/) / [Getting started](https://developer.themoviedb.org/docs/getting-started) / [API reference](https://developer.themoviedb.org/reference/intro/getting-started). Nemendur þurfa að skrá sig inn á síðuna (register) og sækja um API key, [leiðbeiningar](JSON/join_TMDB/README.md). Það kostar ekkert að skrá sig (ekki setja inn persónuupplýsingar).
 
-1. Á forsíðu (index) skal birta grunnupplýsingar um 20 random bíómyndir frá _The Movie Database API_. Birta skal nafn (original_title) og mynd (backdrop_path) bíómyndar. **20%**
+1. Á forsíðu (index) skal birta grunnupplýsingar um 20 random bíómyndir frá _The Movie Database API_. Birta skal nafn (original_title) og mynd (backdrop_path) bíómyndar. Svona birtir þú [mynd](https://developer.themoviedb.org/docs/image-basics)  **20%**
 1. Ef valin er ein bíómynd af forsíðu er farið á undirsíðu sem birtir nánari upplýsingar um valda bíómynd. **30%**
     - nafn bíómyndar (original_title)
     - mynd 
@@ -34,7 +34,10 @@ Hlekkurinn / API endpoint [https://api.themoviedb.org/3/discover/movie?api_key=?
 
 Hlekkurinn / API endpoint [https://api.themoviedb.org/3/movie/550?api_key=???](https://api.themoviedb.org/3/movie/550?api_key=???) skilar okkur upplýsingum um bíómynd eftir id:  Í þessu tilviki bíómyndin The Fight Club sem hefur id = 550.  Í staðinn fyrir ??? setur þú þinn API key.
 
-Hér eru fleiri dæmi með [TMDB endpoints](JSON/tmdb_endpoints.md).
+Hér eru fleiri dæmi með [TMDB endpoints](JSON/tmdb_endpoints.md).<br><br>
+Leikarar, leikstjórar, framleiðendur ákveðinnar myndar: https://api.themoviedb.org/3/movie/{id}/credits?api_key={þinn_lykill}<br>
+Trailerar:  https://api.themoviedb.org/3/movie/{id}/videos?api_key={þinn_lykill}<br>
+Leit eftir nafni: https://api.themoviedb.org/3/search/movie?api_key={þinn_lykill}&query={leitarstrengur}<br>
 
 <details>
 <summary>Dæmi um gögn</summary>
