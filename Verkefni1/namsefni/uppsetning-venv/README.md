@@ -8,11 +8,11 @@
 - Step 1: Install Virtual Environment. 
   * PC: `python -m venv _venv` 
   * Mac/Linux: `python3 -m venv _venv`
-- Step 2: Create an Environment. `cd .venv\Scripts\`
+- Step 2: Create an Environment. `cd _venv\Scripts\`
 - Step 3: Activate the Environment. `activate`
   * ![activate venv](activate-venv.jpg)
 - Step 4: Í Visual Studio Code - bætið Python í Extension
-  * Neðst í hægra horni forritsins á að sjást `Python 3.13.1 (.venv)`
+  * Neðst í hægra horni forritsins á að sjást `Python 3.13.1 (_venv)`
   * ![VCS ok](vsc-venv-ok.jpg)
 - Step 5: In VSC, Python teminal, install Flask. `pip install Flask`
   * ![pip install](pip-install-Flask.jpg)
