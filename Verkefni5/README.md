@@ -34,8 +34,7 @@ Eftirfarandi verkþættir eru metnir til einkunna: <br>
 1. Notkun á dynamic route og errorhandler (404 villa) **(5%)**
 1. Vefsíða sem birtir blogfærslur með röðun (nýjast efst). **(5%)**
 1. Login, sessions, validation og einföld auðkenning fyrir einn notanda (admin@admin.is og lykilorðið 123456), logout. **(5%)**
-1. Vefsíða með form  **(5%)**
-1. Admin (dashboard) með töfluuppsetningu, CRUD aðgerðir á JSON skrá (blogfærslur). **(15%)**
+1. Admin (dashboard) með töfluuppsetningu, CRUD aðgerðir á JSON skrá (blogfærslur). **(20%)**
    * Blog yfirlit í töflu
    * Hnappur til að búa til blogfærslu -> síða með Flask-WTF, WTForms, CKEditor og FLash til að skrifa nýja blogfærslu.
    * Hnappur til að uppfæra blogfærslu -> síða með Flask-WTF, WTForms, CKEditor og FLash til að uppfæra (edit) blogfærslu.
