@@ -32,13 +32,14 @@ Eftirfarandi verkþættir eru metnir til einkunna: <br>
 1. Efnisyfirlit (menu) sýnir hvaða hlekkur er virkur hverju sinni og í efnisyfirlitinu er leitargluggi **(5%)**
 1. API notkun (ekki TMDB) til að sækja gögn sem birtast á vef, lágmark 2 mismunandi fyrirspurnir. **(10%)**
 1. Notkun á dynamic route og errorhandler (404 villa) **(5%)**
-1. Login, sessions, validation og einföld auðkenning fyrir einn notanda (admin@admin.is og lykilorðið 123456), logout. **(5%)**
-1. Vefsíða með form (Flask-WTF, WTForms, CKEditor, FLash) til að skrifa nýja blogfærslu og uppfæra (edit). **(5%)**
 1. Vefsíða sem birtir blogfærslur með röðun (nýjast efst). **(5%)**
+1. Login, sessions, validation og einföld auðkenning fyrir einn notanda (admin@admin.is og lykilorðið 123456), logout. **(5%)**
+1. Vefsíða með form  **(5%)**
 1. Admin (dashboard) með töfluuppsetningu, CRUD aðgerðir á JSON skrá (blogfærslur). **(15%)**
-   * Hnappur á síðu til að búa til blogfærslu 
-   * Hnappur til að uppfæra blogfærslu
-   * Hnappur til að eyða blogfærslu
+   * Blog yfirlit í töflu
+   * Hnappur til að búa til blogfærslu -> síða með Flask-WTF, WTForms, CKEditor og FLash til að skrifa nýja blogfærslu.
+   * Hnappur til að uppfæra blogfærslu -> síða með Flask-WTF, WTForms, CKEditor og FLash til að uppfæra (edit) blogfærslu.
+   * Hnappur til að eyða blogfærslu -> FLash tilkynning birtist á stjórnborði
    * [sýnidæmi](https://blog-admin-ui.netlify.app/). 
 
 #### Nýjungar: (30% í boði)
