@@ -25,7 +25,8 @@
 ### Námsmat 
 Eftirfarandi verkþættir eru metnir til einkunna: <br>
 
-Námsefni: verkefni 1-4 (70%)
+#### Námsefni: verkefni 1-4 (70%)
+
 1. Jinja: inheritance, include, skilyrðissetnignar, lykkjunotkun, filter, url_for, breytur. **(10%)**
 1. PicoCSS safn fyrir uppsetningu og útlit. **(10%)**
 1. Valmynd sem er breytileg, með leit og sýnir hvaða hlekkur er virkur hverju sinni **(5%)**
@@ -37,11 +38,12 @@ Námsefni: verkefni 1-4 (70%)
 1. Vefsíða sem birtir blogfærslur með röðun (nýjast efst). **(5%)**
 1. CRUD aðgerðir á JSON skrá (blogfærslur). **(10%)**
 
-Nýjungar: (30%)
-1. [Pagination in Flask: Split Your Data Into Pages](https://www.youtube.com/watch?v=U18hO1ngZEQ).  **(5%)**
+#### Nýjungar: (30%)
+
 1. [Fileupload](https://flask.palletsprojects.com/en/2.3.x/patterns/fileuploads/), ljósmyndir fyrir blogfærslur. **(10%)**
-1. Notaðu [htmx](https://htmx.org/docs/) til að gera vefinn dýnamískan (án þess að reload alla síðu) fyrir [delete](https://youtu.be/O2Xd6DmcB9g?t=1996) aðgerð á blogfærslum og [leit](https://www.youtube.com/watch?v=PWEl1ysbPAY). **(10%)**
-1. Vefurinn er hýstur (live production) með [PythonAnywhere](https://www.pythonanywhere.com/). **(5%)**
+1. Vefurinn er hýstur (live production) með [PythonAnywhere](https://www.pythonanywhere.com/). **(10%)**
+1. [Pagination in Flask: Split Your Data Into Pages](https://www.youtube.com/watch?v=U18hO1ngZEQ).  **(5%)**
+1. Notaðu [htmx](https://htmx.org/docs/) til að gera vefinn dýnamískan (án þess að reload alla síðu) fyrir [delete](https://youtu.be/O2Xd6DmcB9g?t=1996) aðgerð á blogfærslum og [leit](https://www.youtube.com/watch?v=PWEl1ysbPAY). **(5%)**
 
 ---
 
