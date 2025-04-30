@@ -28,8 +28,8 @@ Eftirfarandi verkþættir eru metnir til einkunna: <br>
 #### Námsefni: verkefni 1-4 (70%)
 
 1. Jinja: inheritance, include, skilyrðissetnignar, lykkjunotkun, filter, url_for, breytur. **(10%)**
-1. PicoCSS safn fyrir uppsetningu og útlit. **(10%)**
-1. Valmynd sem er breytileg, með leit og sýnir hvaða hlekkur er virkur hverju sinni **(5%)**
+1. PicoCSS eða eigið CSS safn fyrir uppsetningu og útlit. **(10%)**
+1. Efnisyfirlit (menu) sýnir hvaða hlekkur er virkur hverju sinni og er með leitarglugga **(5%)**
 1. API notkun (ekki TMDB) til að sækja gögn sem birtast á vef, lágmark 2 mismunandi fyrirspurnir. **(10%)**
 1. Notkun á dynamic route og errorhandler (404 villa) **(5%)**
 1. Login, sessions, validation og einföld auðkenning fyrir einn notanda (admin@admin.is og lykilorðið 123456), logout. **(5%)**
@@ -38,12 +38,14 @@ Eftirfarandi verkþættir eru metnir til einkunna: <br>
 1. Vefsíða sem birtir blogfærslur með röðun (nýjast efst). **(5%)**
 1. CRUD aðgerðir á JSON skrá (blogfærslur). **(10%)**
 
-#### Nýjungar: (30%)
+#### Nýjungar: (30% í boði)
 
+1. Notendur geta skráð sig og skrifað pósta sem birtast í blogginu **(10%)** 
 1. [Fileupload](https://flask.palletsprojects.com/en/2.3.x/patterns/fileuploads/), ljósmyndir fyrir blogfærslur. **(10%)**
 1. Vefurinn er hýstur (live production) með [PythonAnywhere](https://www.pythonanywhere.com/). **(10%)**
 1. [Pagination in Flask: Split Your Data Into Pages](https://www.youtube.com/watch?v=U18hO1ngZEQ).  **(5%)**
 1. Notaðu [htmx](https://htmx.org/docs/) til að gera vefinn dýnamískan (án þess að reload alla síðu) fyrir [delete](https://youtu.be/O2Xd6DmcB9g?t=1996) aðgerð á blogfærslum og [leit](https://www.youtube.com/watch?v=PWEl1ysbPAY). **(5%)**
+1. Annað sem nemendur skýra frá í "Athugasemd til kennara" **(5%)**
 
 ---
 
