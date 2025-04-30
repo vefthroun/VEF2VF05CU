@@ -36,10 +36,10 @@ Eftirfarandi verkþættir eru metnir til einkunna: <br>
 1. Vefsíða með form (Flask-WTF, WTForms, CKEditor, FLash) til að skrifa nýja blogfærslu og uppfæra (edit). **(5%)**
 1. Vefsíða sem birtir blogfærslur með röðun (nýjast efst). **(5%)**
 1. Admin (dashboard) með töfluuppsetningu, CRUD aðgerðir á JSON skrá (blogfærslur). **(15%)**
-   * hnappur á síðu til að búa til blogfærslu (C) 
+   * Hnappur á síðu til að búa til blogfærslu (C) 
    * Póstar birtir í töflu (R)
-   * hnappur til að uppfæra blogfærslu (U)
-   * hnappur til að eyða blogfærslu (D)
+   * Hnappur til að uppfæra blogfærslu (U)
+   * Hnappur til að eyða blogfærslu (D)
    * [sýnidæmi](https://blog-admin-ui.netlify.app/). 
 
 #### Nýjungar: (30% í boði)
