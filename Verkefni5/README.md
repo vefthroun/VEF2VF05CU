@@ -33,10 +33,10 @@ Eftirfarandi verkþættir eru metnir til einkunna: <br>
 1. API notkun (ekki TMDB) til að sækja gögn sem birtast á vef, lágmark 2 mismunandi fyrirspurnir. **(10%)**
 1. Notkun á dynamic route og errorhandler (404 villa) **(5%)**
 1. Login, sessions, validation og einföld auðkenning fyrir einn notanda (admin@admin.is og lykilorðið 123456), logout. **(5%)**
-1. Admin (dashboard) með töfluuppsetningu, hnapp til að eyða blogfærslu, hnapp á síðu til að uppfæra blogfærslu, hnapp á síðu til að búa til blogfærslu, [sýnidæmi](https://blog-admin-ui.netlify.app/). **(5%)**
 1. Vefsíða með form (Flask-WTF, WTForms, CKEditor, FLash) til að skrifa nýja blogfærslu og uppfæra (edit). **(5%)**
 1. Vefsíða sem birtir blogfærslur með röðun (nýjast efst). **(5%)**
-1. CRUD aðgerðir á JSON skrá (blogfærslur). **(10%)**
+1. CRUD aðgerðir á JSON skrá (blogfærslur).  
+   * Admin (dashboard) með töfluuppsetningu, hnapp til að eyða blogfærslu, hnapp á síðu til að uppfæra blogfærslu, hnapp á síðu til að búa til blogfærslu, [sýnidæmi](https://blog-admin-ui.netlify.app/). **(15%)**
 
 #### Nýjungar: (30% í boði)
 
