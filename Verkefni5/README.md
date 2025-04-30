@@ -40,7 +40,7 @@ Eftirfarandi verkþættir eru metnir til einkunna: <br>
 
 #### Nýjungar: (30% í boði)
 
-1. Notendur geta skráð sig og skrifað pósta sem birtast í blogginu **(10%)** 
+1. Notendur geta skráð sig í gagnagrunn og síðan loggað sig inn og skrifað pósta sem birtast í blogginu **(10%)** 
 1. [Fileupload](https://flask.palletsprojects.com/en/2.3.x/patterns/fileuploads/), ljósmyndir fyrir blogfærslur. **(10%)**
 1. Vefurinn er hýstur (live production) með [PythonAnywhere](https://www.pythonanywhere.com/). **(10%)**
 1. [Pagination in Flask: Split Your Data Into Pages](https://www.youtube.com/watch?v=U18hO1ngZEQ).  **(5%)**
