@@ -51,7 +51,5 @@ Eftirfarandi verkþættir eru metnir til einkunna: <br>
 
 ### Skil
 - Þjöppuð (zip/rar) mappa með öllum skrám (ekki venv) á Innu
-- Láttu fylgja með textaskrá með lista af söfnum sem þarf að pip install (dependencies)
+- Láttu fylgja með textaskrá með lista af söfnum sem þarf að pip install (dependencies - pip freeze)
 - Vefslóð á hýsingu.
-
-
