@@ -36,8 +36,8 @@ Eftirfarandi verkþættir eru metnir til einkunna: <br>
 1. Login, sessions, validation og einföld auðkenning fyrir einn notanda (admin@admin.is og lykilorðið 123456), logout. **(5%)**
 1. Admin (dashboard) með töfluuppsetningu, CRUD aðgerðir á JSON skrá (blogfærslur). **(20%)**
    * Blog yfirlit í töflu
-   * Hnappur til að búa til blogfærslu -> síða með Flask-WTF, WTForms, CKEditor og FLash til að skrifa nýja blogfærslu.
-   * Hnappur til að uppfæra blogfærslu -> síða með Flask-WTF, WTForms, CKEditor og FLash til að uppfæra (edit) blogfærslu.
+   * Hnappur til að búa til blogfærslu -> síða með WTForms, CKEditor og FLash til að skrifa nýja blogfærslu.
+   * Hnappur til að uppfæra blogfærslu -> síða með WTForms, CKEditor og FLash til að uppfæra (edit) blogfærslu.
    * Hnappur til að eyða blogfærslu -> FLash tilkynning birtist á stjórnborði
    * [sýnidæmi](https://blog-admin-ui.netlify.app/). 
 
