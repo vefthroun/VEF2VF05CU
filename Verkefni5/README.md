@@ -39,6 +39,7 @@ Eftirfarandi verkþættir eru metnir til einkunna: <br>
    * Hnappur til að búa til blogfærslu -> síða með WTForms, CKEditor og FLash til að skrifa nýja blogfærslu.
    * Hnappur til að uppfæra blogfærslu -> síða með WTForms, CKEditor og FLash til að uppfæra (edit) blogfærslu.
    * Hnappur til að eyða blogfærslu -> FLash tilkynning birtist á stjórnborði
+   * "Select" innsláttarreitur til að velja flokk (_Category_)
    * [sýnidæmi](https://blog-admin-ui.netlify.app/). 
 
 #### Nýjungar: (30% í boði)
@@ -46,6 +47,7 @@ Eftirfarandi verkþættir eru metnir til einkunna: <br>
 1. Notendur geta skráð sig í gagnagrunn og síðan loggað sig inn og skrifað pósta sem birtast í blogginu **(10%)** 
 1. [Fileupload](https://flask.palletsprojects.com/en/2.3.x/patterns/fileuploads/), ljósmyndir fyrir blogfærslur. **(10%)**
 1. Vefurinn er hýstur (live production) með [PythonAnywhere](https://www.pythonanywhere.com/). **(10%)**
+1. Síða þar sem hægt er að breyta eða bæta við flokkum **(5%)**
 1. [Pagination in Flask: Split Your Data Into Pages](https://www.youtube.com/watch?v=U18hO1ngZEQ).  **(5%)**
 1. Notaðu [htmx](https://htmx.org/docs/) til að gera vefinn dýnamískan (án þess að reload alla síðu) fyrir [delete](https://youtu.be/O2Xd6DmcB9g?t=1996) aðgerð á blogfærslum og [leit](https://www.youtube.com/watch?v=PWEl1ysbPAY). **(5%)**
 1. Annað sem nemendur skýra frá í Innu, "Athugasemd til kennara" **(5%)**
