@@ -1,6 +1,6 @@
 # Postman 
 
-(Innskráning leiðbeiningar)[VSC_Postman]
+[Innskráning leiðbeiningar](VSC_Postman)
 
 Youtube video leiðbeningar: 
 
