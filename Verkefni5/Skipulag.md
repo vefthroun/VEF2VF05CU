@@ -10,15 +10,16 @@
 ### Vika 19
 
 1. Gagnaöflun
-  * Jason gagnagrunnur
-  * Textavinna
-2. Skipurit og flæðirit
-3. Forritun - uppsetning 
-4. Json API tenging
+   * Jason gagnagrunnur
+   * Skipurit og flæðirit
+   * Textavinna
+2. Forritun - uppsetning 
+3. Json API tenging
+4. Forritun - Admin
 
 ### Vika 20
 
-1. Forritun - Admin
-2. Forritun - CRUD
+1. Forritun - CRUD
+2. Forritun 
 3. Uppsetning á Internetið
 4. Frágangur og verkefnaskil
