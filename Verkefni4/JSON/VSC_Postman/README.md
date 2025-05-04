@@ -1,26 +1,10 @@
-# Postman innsetning í VSCode
+# Postman 
 
-![mynd 1](mynd-1.jpg)
+(Innskráning leiðbeiningar)[VSC_Postman]
 
-![mynd 2](mynd-2.jpg)
+Youtube video leiðbeningar: 
 
-![mynd 3](mynd-3.jpg)
-
-![mynd 4](mynd-4.jpg)
-
-![mynd 5](mynd-5.jpg)
-
-![mynd 6](mynd-6.jpg)
-
-![mynd 7](mynd-7.jpg)
-
-![mynd 8](mynd-8.jpg)
-
-![mynd 9](mynd-9.jpg)
-
-![mynd 10](mynd-10.jpg)
-
-![mynd 11](mynd-11.jpg)
-
-![mynd 12](mynd-12.jpg)
-
+* [AccuWeather API Tutorial | For Beginners (4:07)](https://www.youtube.com/watch?v=KQ_nHbnAzPc)
+* [Unsplash photo engine API Tutorial | For Beginners (4:44)](https://www.youtube.com/watch?v=_AprVrgnq4w)
+* [Learn Postman for API Testing. Step-by-Step Tutorial. (1:35:55) ](https://www.youtube.com/watch?v=wEOLZq-7DYs)
+ 
