@@ -43,9 +43,3 @@ def delete():
     db.remove(dl.uid == 2)
     # db.remove( Query() field regex )
     return "Notandi fjarlægður úr db - skoðið terminal"
-
-'''
-https://tinydb.readthedocs.io/en/latest/
-https://www.tutorialspoint.com/tinydb/index.htm
-
-'''
