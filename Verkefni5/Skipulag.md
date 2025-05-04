@@ -1,4 +1,4 @@
-# Undirbúningsvinna
+# Verkáætlun
 
 ### Tímáætlun
 
