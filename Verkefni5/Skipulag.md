@@ -33,11 +33,13 @@
 
 ---
 
-### Efnisyfirlit - _Site map_
+### Undirbúningsvinna
 
 Gerið grein fyrir skipulagi og virkni vefsins
 
-Dæmi miðað við grunnkröfur:
+#### Efnisyfirlit - _Site map_
+
+_Dæmi miðað við grunnkröfur:_
 
 1. app innihald (__init__)
    * blog.py
@@ -52,18 +54,17 @@ Dæmi miðað við grunnkröfur:
    * stjórnborð (_dashboard_)
      * Yfirlit yfir allar pósta í töflu. Hægt er að breyta eða eyða póstum
      * Síða þar sem hægt er að breyta pósti
-   
-### Json gagnagrind
 
-Gerið grein fyrir skipulagi gagna 
-
-Dæmi: 
+#### Json gagnagrind
 
 1. tinydb (_default) 
    1. id
    2. flokkur
    3. postur
    4. dagsetning
-   5. osf...
+   5. .....
 
+#### Nýungar
+
+Gerið grein fyrir eigin hönnun og forritun
 
