@@ -66,5 +66,9 @@ _Dæmi miðað við grunnkröfur:_
 
 #### Nýungar
 
-Gerið grein fyrir eigin hönnun og forritun
+Gerið grein fyrir eigin hönnun og forritun sem ekki er tiltekin í grunnkröfum verkefnisins.
+
+Dæmi:
+
+* Vefurinn verður hýstur á [Pythonanywhere.com](https://www.pythonanywhere.com/)
 
