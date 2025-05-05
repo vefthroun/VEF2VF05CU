@@ -71,4 +71,3 @@ Gerið grein fyrir eigin hönnun og forritun sem ekki er tiltekin í grunnkröfu
 Dæmi:
 
 * Vefurinn verður hýstur á [Pythonanywhere.com](https://www.pythonanywhere.com/)
-
