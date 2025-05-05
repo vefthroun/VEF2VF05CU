@@ -54,7 +54,7 @@ _Dæmi miðað við grunnkröfur:_
    * header, efnisyfirlit
    * aðgangi lokað með session
    * stjórnborð (_dashboard_)
-     * yfirlit yfir allar pósta í töflu. Hægt er að breyta eða eyða póstum
+     * yfirlit yfir alla pósta í töflu. Hægt er að breyta eða eyða póstum
      * síða þar sem hægt er skrifa nýjan póst
      * síða þar sem hægt er að breyta póstum
 
