@@ -31,7 +31,7 @@
 * **Föstudagur 16. maí. Kl. 23:59**
 * Verkefni 5 er _lykilmatsþáttur_. 
 
-> Athugið (_Deadline_) að ef verkefninu hefur ekki verið skilað fyrir **kl. 8 á mánudagsmorgun 19. maí** þá er ekki hægt að fara yfir verkefnið og viðkomandi er _fallinn_ í áfanganum.
+> Athugið að ef verkefninu hefur ekki verið skilað fyrir **kl. 8 á mánudagsmorgun 19. maí** (_Deadline_) þá er ekki hægt að fara yfir verkefnið og viðkomandi er _fallinn_ í áfanganum.
 
 ---
 
