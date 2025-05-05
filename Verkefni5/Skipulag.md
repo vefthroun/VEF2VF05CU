@@ -11,8 +11,8 @@
 
 1. Gagnaöflun
    * Jason gagnagrunnur
-   * Skipurit og flæðirit
-   * Textavinna
+   * Skipurit 
+   * Texti og myndir
 2. Forritun - uppsetning 
 3. Json API tenging
 4. Forritun - Admin
