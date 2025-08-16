@@ -3,10 +3,12 @@
 1. install Python -> hakið við `PATH`
    * ![install python](install-python-1.jpg)
 
+Veljið vinnusvæði (möppu) í _Terminal_ (Mac-Linux) eða _Command Prompt_ (PC) þar sem verkefni áfangans VEFÞ2VF verða unnin, td. `$ cd ~/Desktop/ ` - `$ mkdir VEFÞ2VF ` -`$ cd ~/Desktop/VEFÞ2VF/ `
+
 ## How to Install Flask on Linux, Windows, and macOS
 
 - Step 1: Install Virtual Environment. 
-  * PC: `python -m venv venv` 
+  * PC Command Prompt: `python -m venv venv` 
   * Mac/Linux: `python3 -m venv venv`
 - Step 2: Create an Environment. `cd venv\Scripts\`
 - Step 3: Activate the Environment. `activate`
