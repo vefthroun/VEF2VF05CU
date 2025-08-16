@@ -6,13 +6,13 @@
 ## How to Install Flask on Linux, Windows, and macOS
 
 - Step 1: Install Virtual Environment. 
-  * PC: `python -m venv .venv` 
-  * Mac/Linux: `python3 -m venv .venv`
-- Step 2: Create an Environment. `cd .venv\Scripts\`
+  * PC: `python -m venv venv` 
+  * Mac/Linux: `python3 -m venv venv`
+- Step 2: Create an Environment. `cd venv\Scripts\`
 - Step 3: Activate the Environment. `activate`
   * ![activate venv](activate-venv.jpg)
 - Step 4: Í Visual Studio Code - bætið Python í Extension
-  * Neðst í hægra horni forritsins á að sjást `Python 3.13.1 (.venv)`
+  * Neðst í hægra horni forritsins á að sjást `Python 3.xx.x (venv)` <small>(x = útgáfan sem þú ert með á tölvunni þinni)</small>
   * ![VCS ok](vsc-venv-ok.jpg)
 - Step 5: In VSC, Python teminal, install Flask. `pip install Flask`
   * ![pip install](pip-install-Flask.jpg)
@@ -29,7 +29,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "<h1>Halló, Flask innri miðlari á porti 5000!</h1>"
+    return "<h1>Halló, Python - Flask er á porti 5000!</h1>"
 
 if __name__ == '__main__':
   app.run(debug=True, use_reloader=True)  
