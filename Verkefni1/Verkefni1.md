@@ -1,6 +1,10 @@
 ## Verkefni 1 
 10% af heildareinkunn
-
+- Viðfangsefni: 
+   1. Dict
+   1. Static routing 
+   1. Jinja2: templates, for-loops
+   1. Static files: Eigið CSS safn tengt við vef og mynd birt á vef
 ---
 
 Útfærðu einfaldan vef með [Flask](https://flask.palletsprojects.com/en/2.3.x/) og einföldu [Jinja](https://jinja.palletsprojects.com/en/3.0.x/templates/) template (ekki nota _include_ eða _inheritance_ í þessu verkefni). Vefurinn inniheldur tvær vefsíður, forsíðu og aukasíðu. Innihald vefsíðunnar skal vera áhugamál.  Notaðu VSCode ritilinn og settu upp FLASK í **VENV** umhverfi.
