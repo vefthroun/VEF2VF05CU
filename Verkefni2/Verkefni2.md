@@ -1,9 +1,10 @@
 ## Verkefni 2 
-- 15% af heildareinkunn
+- 10% af heildareinkunn
 - Viðfangsefni: 
-   1. Listi með dictionaries
+   1. List með Dict
    1. Dynamic routing 
-   1. Jinja2: include,  if-statement og for-loops
+   1. Jinja2: include,  if-statement og for-loop
+   1. 404 Error rout
    1. New.css CSS safnið og/eða eigið safn og/eða annað að eigin vali
 
 ---
@@ -12,10 +13,11 @@
 Útfærðu lítinn vef sem heldur utan um vörulista (Pizzur) með Flask. Notaðu lista með dictionaries (vörulistinn) sem gagnagrind (datastructure).  Hér fyrir neðan er gagnagrind sem þú getur notað en þú mátt búa til þína eigin.  Hér eru [myndir](https://github.com/vefthroun/Vefforritun1/tree/main/Verkefni2/img) sem þú getur notað.
 
 1. Vefurinn er hlutaður niður með **include** í Jinja2; nav (valmynd), footer (höfundur verkefnis) og vörulista. **10%**
-1. Valmynd inniheldur hlekki á forsíðu og **3** flokka úr gagnagrind kjöt / sterk / vegan. Sýndu hvaða hlekkur er virkur hverju sinni [sýnidæmi](https://python-web.teclado.com/section12/lectures/03_base_template_and_nav_bar/#highlighting-the-currently-active-page). **10%**
-1. Forsíða birtir vörulistann snyrtilega þar sem fram þarf að koma nafn vöru, verð og mynd. Notandi þarf að geta valið eina vöru til að fá nánari upplýsingar um valda vöru ( næsti liður ).  Sýndu einnig heildarfjölda vara á síðunni. **25%**
+1. Valmynd inniheldur hlekki á forsíðu og **3** flokka úr gagnagrind kjöt / sterk / vegan.  **10%**
+1. Forsíða birtir vörulistann snyrtilega þar sem fram þarf að koma nafn vöru, verð og mynd. Notandi þarf að geta valið eina vöru til að fá nánari upplýsingar um valda vöru ( næsti liður ).  Sýndu einnig heildarfjölda vara á síðunni. **20%**
 1. Vörusíða ( undirsíða ) inniheldur; nafn, verð, álegg (`<ul>`), flokk og mynd.  Notaðu `div` til að halda utan um valda vöru. **25%**
 1. Flokkur (undirsíða). Ef notandi velur t.d. hlekkinn **vegan** úr valmynd þá birtist vefsíða einungis með Pizzum úr þeim flokki. **25%**
+1. Settu upp 404 error route og viðeigandi html vefsíðu sem er birt ef upp kemur 404 villa **5%** 
 1. Notaðu [New.css]([https://new.css/](https://new.css/)) safnið fyrir uppsetningu og framsetningu á vef, eigið safn eða hvað sem þú vilt nota. **5%**
 
 Engin harðkóðun!

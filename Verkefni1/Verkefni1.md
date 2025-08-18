@@ -1,16 +1,18 @@
 ## Verkefni 1 
 10% af heildareinkunn
-
+- Viðfangsefni: 
+   1. Dict
+   1. Static routing 
+   1. Jinja2: templates, for-loops
+   1. Static files: Eigið CSS safn tengt við vef og mynd birt á vef
 ---
 
-Útfærðu einfaldan vef með [Flask](https://flask.palletsprojects.com/en/2.3.x/) og einföldu [Jinja](https://jinja.palletsprojects.com/en/3.0.x/templates/) template (ekki nota _include_ eða _inheritance_ í þessu verkefni). Vefurinn inniheldur tvær vefsíður auk 404 error vefsíðu (error_route). Innihald vefsíðunnar skal vera áhugamál.  Notaðu VSCode ritilinn og settu upp FLASK í **VENV** umhverfi.
+Útfærðu einfaldan vef með [Flask](https://flask.palletsprojects.com/en/2.3.x/) og einföldu [Jinja](https://jinja.palletsprojects.com/en/3.0.x/templates/) template (ekki nota _include_ eða _inheritance_ í þessu verkefni). Vefurinn inniheldur tvær vefsíður, forsíðu og aukasíðu. Innihald vefsíðunnar skal vera áhugamál.  Notaðu VSCode ritilinn og settu upp FLASK í **VENV** umhverfi.
 
-1. Láréttur menu á vefsíðu sem inniheldur tvo hlekki. Notaðu [static route](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni1/namsefni/staticRoutes.py) fyrir síðurnar og [url_for](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni1/namsefni/urlfor.py) fyrir hlekkina í menu. **(20%)**
-1. Forsíðan inniheldur menu og ljósmynd [static skrá](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni1/namsefni/staticFiles.py) sem tengist áhugamálinu **(10%)**
-1. Hin síðan inniheldur menu og helstu upplýsingar um þitt áhugamál í óröðuðum lista (`ul`). Þessi gögn eru geymd í `dictionary` í app.py skrá. **(30%)**
-1. [404 Error](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni1/namsefni/errorHandlingStatusCodes.py) vefsíða sýnir textaskilaboð (frá breytu) og einhverja skemmtilega 404 mynd [static skrá](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni1/namsefni/staticFiles.py) **(20%)**
-1. Notaðu [New CSS](https://newcss.net/) CSS safnið fyrir útlit og uppsetningu **(20%)**
-
+1. Forsíðan inniheldur valmynd ( sjá lið 4 ) og ljósmynd [static skrá](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni1/namsefni/staticFiles.py) sem tengist áhugamálinu **(35%)**
+1. Auka síðan inniheldur valmynd ( sjá lið 4 ) og helstu upplýsingar um þitt áhugamál í röðuðum lista (`ol`). Þessi gögn eru geymd í `dictionary` í app.py skrá. **(35%)**
+1. Notaðu eigið CSS safnið fyrir útlit og uppsetningu **(10%)**
+1. Vefur skal innihalda lárétta valmynd með tveimur hlekkjum . Notaðu [static route](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni1/namsefni/staticRoutes.py) fyrir síðurnar og [url_for](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni1/namsefni/urlfor.py) fyrir hlekkina í valmynd. **(20%)**
 
 #### Skráarskipulag
 - Templateskrár sem í grunninn byggir á HTML geymast í möppu sem nefnist `templates`.
