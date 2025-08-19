@@ -5,7 +5,7 @@
 
 Veljið vinnusvæði (möppu) í _Terminal_ (Mac-Linux) eða _Command Prompt_ (PC) þar sem verkefni áfangans VEFÞ2VF verða unnin.
 
-Dæmi `$ cd ~/Desktop/ ` - `$ mkdir VEFÞ2VF ` -`$ cd ~/Desktop/VEFÞ2VF/ `
+CLI dæmi ` cd ~/Desktop/ ` - ` mkdir VEFÞ2VF ` -` cd ~/Desktop/VEFÞ2VF/ `
 
 ## How to Install Flask on Linux, Windows, and macOS
 
