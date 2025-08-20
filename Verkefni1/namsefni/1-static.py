@@ -34,8 +34,7 @@ def about():
 
 # 4. Main entry point
 # The following block of code will only run if the script is executed directly
-# (e.g., by running `python app.py` in the terminal). It will NOT run when
-# Gunicorn imports the file on Render.
+# (e.g., by running `python 1-static.py` in the terminal). 
     
 if __name__ == '__main__':
   app.run(debug=True, use_reloader=True)  
