@@ -1,15 +1,6 @@
 from flask import Flask, render_template
 app = Flask(__name__)
 
-"""
-Include er Leið til að búta niður vef í endurnýtanlega skráarparta.
-https://jinja.palletsprojects.com/en/3.0.x/templates/#include
-
-{% include 'header.html' %}
-    Body
-{% include 'footer.html' %}
-"""
-
 @app.route('/')
 def index():
     user = {
