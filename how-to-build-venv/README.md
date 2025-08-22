@@ -42,6 +42,6 @@ if __name__ == '__main__':
 
 ```
 - Step 7: Keyrið python skjalið (_run python file_)
-- Step 8: Hægri smellið á 'http://127.0.0.1:5000' í _terminal_ og opnið vafra
   - ![Flask run](runFlaskrun.jpg)
+- Step 8: Hægri smellið á 'http://127.0.0.1:5000' í _terminal_ og opnið vafra
   - ![Halló Flask](halloFlask.jpg)
