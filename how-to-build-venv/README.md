@@ -21,7 +21,7 @@ CLI dæmi ` cd ~/Desktop/ ` - ` mkdir VEFÞ2VF ` -` cd ~/Desktop/VEFÞ2VF/ `
 - Step 5: In VSC, Python teminal, install Flask. `pip install Flask`
   * ![pip install](pip-install-Flask.jpg)
   * í Terminal er hægt að sjá hvort Flask pakkinn ('_module_') sé kominn í venv möppuna <br>
-  ` (venv) C:\Users\Notandi\Desktop\VEFÞ2VF\demo-haust-25>python -m pip list `
+  !['treminal'](piplist.jpg)
 
 ### Test the Development Environment
 
