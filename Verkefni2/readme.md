@@ -15,7 +15,8 @@
 ### Jinja 
 
 1. [Rendering Pages in Flask Using Jinja](https://hackersandslackers.com/flask-jinja-templates) 
-1. [Include navigation menu](https://realpython.com/primer-on-jinja-templating/#include-a-navigation-menu)
+1. [Jinja templates](https://realpython.com/primer-on-jinja-templating/)
+2. [Base template & Nav bar](https://python-web.teclado.com/section12/lectures/03_base_template_and_nav_bar/)
 1. [Loops & inheritance](https://youtu.be/APh3jdVryF0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04) (video)
    
 ### CSS
