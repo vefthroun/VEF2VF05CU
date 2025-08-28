@@ -14,10 +14,10 @@
 
 ### Jinja 
 
-1. [Loops & inheritance](https://youtu.be/APh3jdVryF0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04) (video) 
-1. [Rendering Pages in Flask Using Jinja](https://hackersandslackers.com/flask-jinja-templates) (vefgrein)
+1. [Rendering Pages in Flask Using Jinja](https://hackersandslackers.com/flask-jinja-templates) 
 1. [Include navigation menu](https://realpython.com/primer-on-jinja-templating/#include-a-navigation-menu)
-
+1. [Loops & inheritance](https://youtu.be/APh3jdVryF0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04) (video)
+2. 
 ### CSS
 
 - [New CSS](https://newcss.net/)
