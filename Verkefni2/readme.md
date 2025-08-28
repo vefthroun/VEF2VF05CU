@@ -11,6 +11,7 @@
 ### URL routing
 
 - [Understanding URL Routing in Flask](https://www.sitepoint.com/flask-url-routing/)
+- [Include navigation menu](https://realpython.com/primer-on-jinja-templating/#include-a-navigation-menu)
 
 ### Jinja 
 
