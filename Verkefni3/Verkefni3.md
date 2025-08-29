@@ -3,7 +3,8 @@
 - 20% af heildareinkunn
 - Viðfangsefni:
   1. Form og viðbætur ( CKEditor )
-  1. Sessions 
+  1. Sessions
+  2. Flash Message 
   1. Jinja: inheritance
 
 ### Verkefnalýsing
@@ -13,7 +14,7 @@
 ![v3.svg](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni3/v3.svg)
 
 1. Innskráningarsíða (login) sem inniheldur: **20%**
-    - Notaðu [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.2.x/) viðbótina til að búa til form með inntaksreitina; notandi (netfang) og lykilorð.
+    - Notaðu HTML<!-- [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.2.x/) viðbótina til að búa til --> form með inntaksreitina; notandi (netfang) og lykilorð.
     - formprófun (validation) á inntaksreitum (ekki tóm).
     - Notaðu [flash message](https://flask.palletsprojects.com/en/2.2.x/patterns/flashing/) til að láta vita hvort aðgerð hafi tekist. 
 1.  Notaðu [Session](https://flask.palletsprojects.com/en/3.0.x/quickstart/#sessions) fyrir aðgangsstýringar og auðkenningu (authentication). **20%**
