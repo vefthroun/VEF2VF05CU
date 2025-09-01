@@ -17,9 +17,8 @@ mystr = "Hello"
 myobj = MyClass()
 
 mylst = [
-   MyClass, myfunc,
-   myint, mystr, myobj
-]
+   MyClass, myfunc, myint, mystr, myobj
+] 
 
 # Nice one-liner
 print(*map(type, mylst), sep="\n")
