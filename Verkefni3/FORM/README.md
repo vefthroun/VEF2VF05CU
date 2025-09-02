@@ -7,7 +7,8 @@
 
 ### 2. FLASK: Form 
 1. [Flask: The Request Object](https://flask.palletsprojects.com/en/3.0.x/quickstart/#the-request-object)
-1. [Einfalt kóðasýnidæmi (login, signup, form): Html Form & Request Object](https://github.com/vefthroun/Vefforritun1/tree/main/Verkefni3/FORM)
+
+> Form & Request Object. Einfalt kóðasýnidæmi (login.py, signup.py, og form.py) er hægt að skoða hér
 
 
 ---
