@@ -7,7 +7,7 @@
 
 ### 2. FLASK: Form 
 1. [Flask: The Request Object](https://flask.palletsprojects.com/en/3.0.x/quickstart/#the-request-object)
-
+1. [Tutorials Point Flask Request Object](https://www.tutorialspoint.com/flask/flask_request_object.htm)
 > Form & Request Object. Einfalt kóðasýnidæmi (login.py, signup.py, og form.py) er hægt að skoða hér
 
 ### 3. Flash skilaboð
