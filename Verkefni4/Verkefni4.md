@@ -1,134 +1,107 @@
 ## Verkefni 4  
-- 20% af heildareinkunn
+- 25% af heildareinkunn
 - Viðfangsefni:
-  - CRUD aðgerðir með JSON skrá
-  - Vinna með API
-  - CSS Grids uppsetning (Layout) og PicoCSS 
+  - CRUD aðgerðir með JSON / TinyDB
+  - API
+  - Jinja2: Template inheritance, Include
+  - HTML Form
+  - CSS Grids uppsetning (Layout) og PicoCSS / New.css / eigin 
 
 ---
 
 ### Verkefnalýsing
  
-Útfærðu vefforrit í Flask sem nýtir JSON skrá og API. Notum [The Movie Database API](https://www.themoviedb.org/) / [Getting started](https://developer.themoviedb.org/docs/getting-started) / [API reference](https://developer.themoviedb.org/reference/intro/getting-started). Nemendur þurfa að skrá sig inn á síðuna (register) og sækja um API key, [leiðbeiningar](JSON/join_TMDB/README.md). Það kostar ekkert að skrá sig (ekki setja inn persónuupplýsingar).
+Útfærðu vefforrit í Flask sem nýtir JSON skrá og API. Notum [TVMaze API](https://www.tvmaze.com/api)
 
-1. Á forsíðu (index) skal birta grunnupplýsingar um 20 random bíómyndir frá _The Movie Database API_. Birta skal nafn (original_title) og mynd (backdrop_path) bíómyndar. Svona birtir þú [mynd](https://developer.themoviedb.org/docs/image-basics)  **20%**
-1. Ef valin er ein bíómynd af forsíðu er farið á undirsíðu sem birtir nánari upplýsingar um valda bíómynd. **30%**
-    - nafn bíómyndar (original_title)
-    - mynd 
-    - textalýsing bíómyndar (overview)
-    - lengd bíómyndar (runtime)
-    - útgáfudagur bíómyndar (release_date), íslensk dagsetning
-    - helstu leikarar (ekki allir)
-    - trailer (youtube) sem spilast á sömu síðu
-1. Í valmynd er hlekkur á forsíðu, Um mig og leitarreitur þar sem hægt er að leita að ákveðinni bíómynd úr TMDB gagnagrunninum. Sýnidæmi [leit í Weather API](https://www.youtube.com/watch?v=jQjjqEjZK58). **20%**
-1. Hægt er að uppfæra upplýsingar (edit) í Um mig (_profile_), gögn eru skráð og sótt í JSON skrá. **20%**
-1. Notaðu eigið CSS Grids fyrir uppsetningu (layout) og Pico CSS fyrir annað einsog hluti (components) sem eiga við. **10%**
-
-<!--
-1. Helstu leikarar og hlekkir á undirsíðu til að fá nánari upplýsingar
--->
+1. Á forsíðu (index) skal birta grunnupplýsingar um 20 random þætti ur _TVMaze API_ gagnagrunninum. Birta skal nafn og mynd þáttaraða  **20%**
+1. Þegar valin er ein þáttaröð af forsíðu er farið á síðu sem birtir nánari upplýsingar um valda þáttaröð. **20%**
+    - nafn þáttaraðar (name)
+    - mynd (image/medium)
+    - textalýsing þáttaraðar (summary)
+    - lengd þáttaraðar (runtime)
+    - útgáfudagur þáttaraðar (premiered), íslensk dagsetning
+    - dagsetning síðasta þáttar (ended)
+    - flokkar þáttaraðar (genres)
+1. Í valmynd er hlekkur á forsíðu, alla flokka (má vera í fellivalslista - select field), Um mig og leitarreitur þar sem hægt er að leita að ákveðinni þáttaröð úr TVMaze gagnagrunninum.  **10%**
+1. Þegar valin er einn flokkur (genre) úr valmynd birtir kerfið vefsíðu með þáttaröðum sem tilheyra völdum flokki. Sömu upplýsingar og á forsíðu nafn og mynd **15%**
+1. Þegar leitað er að þáttaröð er nafn slegið inn í leitarreit og ýtt á hnapp / takka.  Þá fer kerfið á vefsíðu sem birtir helstu upplýsingar um þáttaraðir sem tilheyra nafninu í leitarstregnum ( helstu upplýsingar nafn og mynd ).**15%**
+1. Hægt er að uppfæra upplýsingar (edit) í Um mig (_profile_), gögn eru skráð og sótt í JSON skrá, notum TinyDB til að höndla þetta. **10%**
+1. Notaðu eigið CSS Grids fyrir uppsetningu (layout) og Pico CSS / NEW.CSS / .... **5%**
+1. Notið erfðir (Jinja2:inheritance) og include (nav og footer) á vefsíðum. **5%**
 
 
 #### Að sækja gögn frá API
-Hlekkurinn / API endpoint [https://api.themoviedb.org/3/discover/movie?api_key=???](https://api.themoviedb.org/3/discover/movie?api_key=???) skilar upplýsingum um 20 myndir á fyrstu síðu ( page ) af 500.  Til að fá næstu 20 myndir eða myndir af síðu 2 þaftu að bæta við skilyrðinu / flagginu &page=2 fyrir aftan api_key eða [https://api.themoviedb.org/3/discover/movie?api_key=???&page=2](https://api.themoviedb.org/3/discover/movie?api_key=???&page=2) 
+Hlekkurinn / API endpoint [https://api.tvmaze.com/shows](https://api.tvmaze.com/shows) skilar upplýsingum um 250 fyrstu þáttarraðir í API gagnasettinu.  Til að fá næstu 250 þætti þarftu að bæta við skilyrðinu / flagginu ?page=1 fyrir aftan shows eða [https://api.tvmaze.com/shows?page=1](https://api.tvmaze.com/shows?page=1) og svo framvegis 
 
-Hlekkurinn / API endpoint [https://api.themoviedb.org/3/movie/550?api_key=???](https://api.themoviedb.org/3/movie/550?api_key=???) skilar okkur upplýsingum um bíómynd eftir id:  Í þessu tilviki bíómyndin The Fight Club sem hefur id = 550.  Í staðinn fyrir ??? setur þú þinn API key.
+Hlekkurinn / API endpoint [https://api.tvmaze.com/shows/155](https://api.tvmaze.com/shows/155) skilar okkur upplýsingum um þáttaröð eftir id:  Í þessu tilviki þáttaröðina Beauty & the Beast sem hefur id = 155. 
 
-Hér eru fleiri dæmi með [TMDB endpoints](JSON/tmdb_endpoints.md).<br><br>
-Leikarar, leikstjórar, framleiðendur ákveðinnar myndar: https://api.themoviedb.org/3/movie/{id}/credits?api_key={þinn_lykill}<br>
-Trailerar:  https://api.themoviedb.org/3/movie/{id}/videos?api_key={þinn_lykill}<br>
-Leit eftir nafni: https://api.themoviedb.org/3/search/movie?api_key={þinn_lykill}&query={leitarstrengur}<br>
+Hér er dæmi um leit á TVMaze API.<br>
+Leit að þætti eftir nafni, ekki nákvæm leit (fuzzy).  Hér er leitað eftir strengnum shark: [https://api.tvmaze.com/search/shows?q=shark](https://api.tvmaze.com/search/shows?q=shark)<br>
 
 <details>
-<summary>Dæmi um gögn</summary>
+<summary>Dæmi um gögn - upplýsingar um eina þáttaröð:</summary>
 <br>
   
 ```python
-
 {
-  "adult": false,
-  "backdrop_path": "/fCayJrkfRaCRCTh8GqN30f8oyQF.jpg",
-  "belongs_to_collection": null,
-  "budget": 63000000,
+  "id": 155,
+  "url": "https://www.tvmaze.com/shows/155/beauty-the-beast",
+  "name": "Beauty & the Beast",
+  "type": "Scripted",
+  "language": "English",
   "genres": [
-    {
-      "id": 18,
-      "name": "Drama"
-    }
+    "Action",
+    "Romance",
+    "Science-Fiction"
   ],
-  "homepage": "",
-  "id": 550,
-  "imdb_id": "tt0137523",
-  "original_language": "en",
-  "original_title": "Fight Club",
-  "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
-  "popularity": 0.5,
-  "poster_path": null,
-  "production_companies": [
-    {
-      "id": 508,
-      "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
-      "name": "Regency Enterprises",
-      "origin_country": "US"
+  "status": "Ended",
+  "runtime": 60,
+  "averageRuntime": 60,
+  "premiered": "2012-10-11",
+  "ended": "2016-09-15",
+  "officialSite": "http://www.cwtv.com/shows/beauty-and-the-beast",
+  "schedule": {
+    "time": "21:00",
+    "days": [
+      "Thursday"
+    ]
+  },
+  "rating": {
+    "average": 7.4
+  },
+  "weight": 97,
+  "network": {
+    "id": 5,
+    "name": "The CW",
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
     },
-    {
-      "id": 711,
-      "logo_path": null,
-      "name": "Fox 2000 Pictures",
-      "origin_country": ""
+    "officialSite": "https://www.cwtv.com/"
+  },
+  "webChannel": null,
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": 30717,
+    "thetvdb": 258959,
+    "imdb": "tt2193041"
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2128.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2128.jpg"
+  },
+  "summary": "Detective Catherine Chandler is a smart, no-nonsense homicide detective. When she was a teenager, she witnessed the murder of her mother at the hands of two gunmen and herself was saved by someone – or something. Years have passed and while investigating a murder, Catherine discovers a clue that leads her to Vincent Keller, who was reportedly killed in 2002. Catherine learns that Vincent is actually still alive and that it was he who saved her many years before. For mysterious reasons that have forced him to live outside of traditional society, Vincent has been in hiding for the past 10 years to guard his secret – when he is enraged, he becomes a terrifying beast, unable to control his super-strength and heightened senses.",
+  "updated": 1729753783,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/155"
     },
-    {
-      "id": 20555,
-      "logo_path": null,
-      "name": "Taurus Film",
-      "origin_country": ""
-    },
-    {
-      "id": 54050,
-      "logo_path": null,
-      "name": "Linson Films",
-      "origin_country": ""
-    },
-    {
-      "id": 54051,
-      "logo_path": null,
-      "name": "Atman Entertainment",
-      "origin_country": ""
-    },
-    {
-      "id": 54052,
-      "logo_path": null,
-      "name": "Knickerbocker Films",
-      "origin_country": ""
-    },
-    {
-      "id": 25,
-      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-      "name": "20th Century Fox",
-      "origin_country": "US"
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/905489",
+      "name": "Au Revoir"
     }
-  ],
-  "production_countries": [
-    {
-      "iso_3166_1": "US",
-      "name": "United States of America"
-    }
-  ],
-  "release_date": "1999-10-12",
-  "revenue": 100853753,
-  "runtime": 139,
-  "spoken_languages": [
-    {
-      "iso_639_1": "en",
-      "name": "English"
-    }
-  ],
-  "status": "Released",
-  "tagline": "How much can you know about yourself if you've never been in a fight?",
-  "title": "Fight Club",
-  "video": false,
-  "vote_average": 7.8,
-  "vote_count": 3439
+  }
 }
 ```
 
