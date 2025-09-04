@@ -7,13 +7,24 @@
 
 ### 2. FLASK: Form 
 1. [Flask: The Request Object](https://flask.palletsprojects.com/en/3.0.x/quickstart/#the-request-object)
-
+1. [Tutorials Point: Flask Request Object](https://www.tutorialspoint.com/flask/flask_request_object.htm)
 > Form & Request Object. Einfalt kóðasýnidæmi (login.py, signup.py, og form.py) er hægt að skoða hér
 
+### 3. Flash skilaboð
+1. [Flash skilaboð](https://flask.palletsprojects.com/en/stable/patterns/flashing/)
 
 ---
 
-### 3. Flask-WTF og WTForms 
+### 4. CKEditor (WYSIWYG HTML editor)
+
+WYSIWYG HTML editor has the ability to convert HTML text area fields or other HTML elements to editor instances. WYSIWYG is an acronym for "what you see is what you get."
+
+1. [Flask CKEditor](https://flask-ckeditor.readthedocs.io/en/latest/)
+1. [How To Add A Rich Text Editor and Basic usage](https://www.youtube.com/watch?v=5jnAnnxZGQQ&ab_channel=Codemy.com) _myndband_
+
+---
+
+### 5. Flask-WTF og WTForms 
 The [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.0.x/) extension provides your Flask application integration with WTForms. It uses Python classes to represent web forms (wrapper). `(venv) $ pip install flask-wtf`.
 
 [WTForms](https://wtforms.readthedocs.io/en/3.0.x/) is a flexible forms validation and rendering library for Python web development. It can work with whatever web framework and template engine you choose. It supports data validation, CSRF protection etc.
@@ -34,21 +45,7 @@ The [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.0.x/) extension provides y
 <!--
 1. Signup sýnidæmi: [WTForms validation and rendering in Flask (27 mín)](https://www.youtube.com/watch?v=j5IQI4aW9ZU) _(youtube)_ 
 1. [How to validate and use WTForms í Flask](https://www.digitalocean.com/community/tutorials/how-to-use-and-validate-web-forms-with-flask-wtf)
-1. [Handling Forms in Flask with Flask-WTF](https://hackersandslackers.com/flask-wtforms-forms/) _(gömul og gölluð vefgrein)_
-1. [FLASK CRUD From scratch, wtform + editor (gamall)](https://www.youtube.com/watch?v=zRwy8gtgJ1A&t=54s&ab_channel=TraversyMedia) _youtube_ og [kóði](https://github.com/bradtraversy/myflaskapp) 
--->
 
-
----
-
-### 4. CKEditor (WYSIWYG HTML editor)
-
-WYSIWYG HTML editor has the ability to convert HTML text area fields or other HTML elements to editor instances. WYSIWYG is an acronym for "what you see is what you get."
-
-1. [Flask CKEditor](https://flask-ckeditor.readthedocs.io/en/latest/)
-1. [How To Add A Rich Text Editor and Basic usage](https://www.youtube.com/watch?v=5jnAnnxZGQQ&ab_channel=Codemy.com) _myndband_
-
-<!--
 1. [CKEditor](https://ckeditor.com/)
    - [Online Demo](https://ckeditor.com/ckeditor-5/demo/), [kóðasýnidæmi](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/quick-start.html) og [Docs](https://ckeditor.com/docs/)
 -->
