@@ -23,7 +23,7 @@ def create():
     db.insert({
             "uid":plus1,
             "name":"Jóhannes",
-            "email":"joh@nn.es",
+            "email":"joh@nnes",
             "bio":"Skírn er mín sérgrein"})
     for i in db:
         print(i)
