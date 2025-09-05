@@ -33,7 +33,7 @@ def create():
 def update():
     from tinydb import Query
     user = Query()
-    db.update({'name':'Jesú', 'email':'jes@ja.kr', 'bio':'Töfrabrögð eru mín sérgrein, sumir kalla þau kraftaverk'}, user.uid == 1 )
+    db.update({'name':'Jesú', 'email':'jes@ja', 'bio':'Töfrabrögð eru mín sérgrein, sumir kalla þau kraftaverk'}, user.uid == 1 )
     # db.update({ updated field: updated information }, stable field: information)
     for i in db:
         print(i)
