@@ -2,6 +2,9 @@ from app import app
 
 from tinydb import TinyDB
 db = TinyDB('data/db.json', indent = 2, encoding='utf-8', ensure_ascii=False)
+# indent = 2 makes the json file more human readable
+# encoding and ensure_ascii makes it possible to use special characters
+# db.purge() # Uncomment to clear the database
 
 @app.route('/')
 def index():
@@ -30,7 +33,7 @@ def create():
 def update():
     from tinydb import Query
     user = Query()
-    db.update({'name':'Jesú', 'email':'jes@ja.kr', 'bio':'Töfrabrögð eru mín sérgrein'}, user.uid == 3 )
+    db.update({'name':'Jesú', 'email':'jes@ja.kr', 'bio':'Töfrabrögð eru mín sérgrein, sumir kalla þau kraftaverk'}, user.uid == 1 )
     # db.update({ updated field: updated information }, stable field: information)
     for i in db:
         print(i)
