@@ -5,7 +5,7 @@
 
 ### WTForms
 
-1. [Flask WTForms](https://github.com/vefthroun/Vefforritun1/tree/main/Verkefni3/FORM#3-flask-wtf-og-wtforms)
+1. [Flask WTForms](https://github.com/vefthroun/Vefforritun1/tree/main/Verkefni3/FORM#5-flask-wtf-og-wtforms)
 
 ### CKEditor
 
