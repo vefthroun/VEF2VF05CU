@@ -1,4 +1,5 @@
-### JSON  
+## JSON
+
 [JSON](https://realpython.com/python-json/) er vinsælt opið gagnaskiptasnið. Uppbygging samanstendur af eigindi (key) og gildi (value) pörum. JSON er notað með ýmsum forritunarmálum. 
 
 <details>
@@ -38,14 +39,13 @@
 
 <details>
 <summary>Bjargir</summary>
-<br>
 
+* [CRUD aðgerðir með dictionary](https://www.freecodecamp.org/news/everything-you-need-to-know-about-python-dictionaries/)
+* [CRUD aðgerðir með JSON skrá](https://tecadmin.net/crud-operations-on-json-files-with-python/#google_vignette)
 * [JSON Support in Flask](https://tedboy.github.io/flask/interface_api.json_support.html#module-flask.json)
 * [Python's urllib.request for HTTP Requests](https://realpython.com/urllib-request/)
 * [Working with JSON data](https://www.youtube.com/watch?v=9N6a-VLBa2I) _(YouTube)_
 * [Append to JSON file using Python](https://www.geeksforgeeks.org/append-to-json-file-using-python/)
-* [CRUD aðgerðir með dictionary](https://www.freecodecamp.org/news/everything-you-need-to-know-about-python-dictionaries/)
-* [CRUD aðgerðir með JSON skrá](https://tecadmin.net/crud-operations-on-json-files-with-python/#google_vignette)
 * [CRUD aðgerðir með Flask og JSON](https://github.com/oritzio/flask_crud_json)
 * [REST API CRUD operations, beginners guide](https://medium.com/@mathur.danduprolu/building-restful-apis-with-flask-a-beginners-guide-to-crud-operations-part-2-7-4ff74083a3ee)
 * [Fixing the SSL CERTIFICATE_VERIFY_FAILED Error](https://realpython.com/urllib-request/#fixing-the-ssl-certificate_verify_failed-error), hér er dæmi um [kóðalausn](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni4/JSON/certifi_fix.PNG)
