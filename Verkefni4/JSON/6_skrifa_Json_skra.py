@@ -12,7 +12,7 @@ bekkur = {
 print(bekkur) # debug
 
 # Bætum við nemanda í listann, dict. færslu 
-bekkur['nemandi'].append({'nafn':'Dísa','braut':'tbr25'})
+bekkur['nemandi'].append({'nafn':'Palli','braut':'tbr26'})
 
 # Lúppum i gegnum listann
 # key 'nemandi' er listi með dictionaries.
@@ -26,8 +26,8 @@ try:
     # Skrifum (yfirskrifum) i skránna bekkur.json
     # Ef hún er ekki til þá er búin til sjálfkrafa.
     with file_path.open(mode="w") as file:
-        # dump er fyrir skrár, dumps fyrir strengi
-        json.dump(bekkur, file)
+        # dump er fyrir skrár, dumps fyrir strengi, indent=2 er fallegra útlit
+        json.dump(bekkur, file, indent=2)
         file.close() 
 except OSError as error:
     logging.error("Writing to file %s failed due to: %s", file_path, error)
