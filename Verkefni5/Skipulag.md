@@ -10,39 +10,29 @@
 
 ### Vika 39
 
-1. Gagnaöflun og skiplag
+* Gagnaöflun og skiplag
    * Jason gagnagrunnur
    * Skipurit 
    * Texti og myndir
-2. Forritun 
-3. Forritun
-4. Forritun 
+* Forritun  
 
 ### Vika 40
-
-1. Forritun 
-2. Forritun 
-3. Forritun
-4. Forritun - skil á grunnkröfum
-
+* Forritun
+* **Grunnkröfur** Verkefnaskil í Innu,
+* **föstudagur 3. óktóber. Kl. 23:59**
+  
 ### Vika 41
 
-1. Forritun / kynning með kennara
-2. Forritun / kynning með kennara
-3. Forritun
-4. Forritun - skil 
+* Forritun / kynning með kennara*
+* Lokaverkefnaskil í Innu, **sunnudagur 12. óktóber. Kl. 23:59**
 
 ---
 
-### Verkefnaskil
-
-* **Föstudagur 16. maí. Kl. 23:59**
 * Verkefni 5 er _lykilmatsþáttur_. 
 
-> Athugið að ef verkefninu hefur ekki verið skilað fyrir **kl. 8 á mánudagsmorgun 19. maí** (_Deadline_) þá er ekki hægt að fara yfir verkefnið og viðkomandi er _fallinn_ í áfanganum.
+<!-- Athugið að ef verkefninu hefur ekki verið skilað fyrir **kl. 8 á mánudagsmorgun 19. maí** (_Deadline_) þá er ekki hægt að fara yfir verkefnið og viðkomandi er _fallinn_ í áfanganum.-->
 
----
-
+<!--
 ### Undirbúningsvinna
 
 Gerið grein fyrir skipulagi og virkni vefsins
@@ -82,3 +72,4 @@ Gerið grein fyrir eigin hönnun og forritun sem ekki er tiltekin í grunnkröfu
 Dæmi:
 
 * Vefurinn verður hýstur á [Pythonanywhere.com](https://www.pythonanywhere.com/)
+-->
