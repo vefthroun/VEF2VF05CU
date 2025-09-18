@@ -4,25 +4,33 @@
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 19 | Gagnaöflun og skipulag | Forritun | Forritun | Forritun | 
-| 20 | Forritun | Forritun | Uppsetning | Frágangur og skil |
+| 39 | Gagnaöflun og skipulag | Forritun | Forritun | Forritun | 
+| 40 | Forritun | Forritun | Forritun | Skil á grunnkröfum |
+| 41 | Forritun / viðtöl | Forritun / viðtöl | Forritun | Frágangur og skil |
 
-### Vika 19
+### Vika 39
 
-1. Gagnaöflun
+1. Gagnaöflun og skiplag
    * Jason gagnagrunnur
    * Skipurit 
    * Texti og myndir
-2. Forritun - uppsetning 
-3. Json API tenging
-4. Forritun - Admin
-
-### Vika 20
-
-1. Forritun - CRUD
 2. Forritun 
-3. Uppsetning á Internetið
-4. Frágangur
+3. Forritun
+4. Forritun 
+
+### Vika 40
+
+1. Forritun 
+2. Forritun 
+3. Forritun
+4. Forritun - skil á grunnkröfum
+
+### Vika 41
+
+1. Forritun / kynning með kennara
+2. Forritun / kynning með kennara
+3. Forritun
+4. Forritun - skil 
 
 ---
 
