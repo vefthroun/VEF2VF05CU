@@ -1,6 +1,4 @@
-# Verkáætlun
-
-### Tímáætlun
+# Tímáætlun
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
