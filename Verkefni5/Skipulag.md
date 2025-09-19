@@ -16,8 +16,7 @@
 
 ### Vika 40
 * Forritun
-* **Grunnkröfur** Verkefnaskil í Innu,
-* **föstudagur 3. óktóber. Kl. 23:59**
+* **Grunnkröfur**. Verkefnaskil í Innu föstudaginn 3. óktóber. Kl. 23:59
   
 ### Vika 41
 
