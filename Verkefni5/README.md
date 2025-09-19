@@ -42,7 +42,7 @@ Eftirfarandi verkþættir eru metnir til einkunna: <br>
    * Hnappur til að eyða blogfærslu -> FLash tilkynning birtist á stjórnborði
    * "Select" innsláttarreitur til að velja flokk (_Category_)
    * [sýnidæmi](https://blog-admin-ui.netlify.app/)
-1. Nemendur kynna kennara verkefni sitt, útskýra alla helstu ofangreinda virkni, eins og tími gefst.  **Ef nemandi getur ekki gert grein fyrir kóða sínum, útskýrt útfærslu / virkni telst það vera fall á lykilmati**  
+1. Nemendur kynna kennara verkefni sitt, útskýra alla helstu ofangreinda virkni, eins og tími gefst. <br> **Ef nemandi getur ekki gert grein fyrir kóða sínum, útskýrt útfærslu / virkni telst það vera fall á lykilmati**  
 
 #### Nýjungar: (30% í boði)
 
