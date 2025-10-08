@@ -1,40 +1,35 @@
-# Verkáætlun
-
-### Tímáætlun
+# Tímáætlun
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 19 | Gagnaöflun og skipulag | Forritun | Forritun | Forritun | 
-| 20 | Forritun | Forritun | Uppsetning | Frágangur og skil |
+| 39 | Gagnaöflun og skipulag | Forritun | Forritun | Forritun | 
+| 40 | Forritun | Forritun | Forritun | Skil á grunnkröfum |
+| 41 | Forritun / viðtöl | Forritun / viðtöl | Forritun | Frágangur og skil |
 
-### Vika 19
+### Vika 39
 
-1. Gagnaöflun
+* Gagnaöflun og skiplag
    * Jason gagnagrunnur
    * Skipurit 
    * Texti og myndir
-2. Forritun - uppsetning 
-3. Json API tenging
-4. Forritun - Admin
+* Forritun  
 
-### Vika 20
+### Vika 40
+* Forritun
+* **Grunnkröfur**. Verkefnaskil í Innu föstudaginn 3. óktóber. Kl. 23:59
+  
+### Vika 41
 
-1. Forritun - CRUD
-2. Forritun 
-3. Uppsetning á Internetið
-4. Frágangur
+* Forritun / kynning með kennara*
+* Lokaverkefnaskil í Innu, **sunnudagur 12. óktóber. Kl. 23:59**
 
 ---
 
-### Verkefnaskil
-
-* **Föstudagur 16. maí. Kl. 23:59**
 * Verkefni 5 er _lykilmatsþáttur_. 
 
-> Athugið að ef verkefninu hefur ekki verið skilað fyrir **kl. 8 á mánudagsmorgun 19. maí** (_Deadline_) þá er ekki hægt að fara yfir verkefnið og viðkomandi er _fallinn_ í áfanganum.
+<!-- Athugið að ef verkefninu hefur ekki verið skilað fyrir **kl. 8 á mánudagsmorgun 19. maí** (_Deadline_) þá er ekki hægt að fara yfir verkefnið og viðkomandi er _fallinn_ í áfanganum.-->
 
----
-
+<!--
 ### Undirbúningsvinna
 
 Gerið grein fyrir skipulagi og virkni vefsins
@@ -74,3 +69,4 @@ Gerið grein fyrir eigin hönnun og forritun sem ekki er tiltekin í grunnkröfu
 Dæmi:
 
 * Vefurinn verður hýstur á [Pythonanywhere.com](https://www.pythonanywhere.com/)
+-->
