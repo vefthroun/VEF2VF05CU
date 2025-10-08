@@ -2,7 +2,7 @@
 
 #### 1. Sign Up / Log In
 
-Go to https://www.pythonanywhere.com (PAW) and create a (free) account.
+Go to https://www.pythonanywhere.com/pricing/ and create a (free) account.
 
 ![PAW free account](plan.png)
 
