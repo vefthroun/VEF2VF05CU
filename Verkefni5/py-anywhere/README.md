@@ -1,47 +1,26 @@
 # Simple Guide: Deploy a Small Database‑Backed Flask App on PythonAnywhere
 
-## 1. Prepare Locally (optional)
-1. Create project folder.
-2. Create virtual environment:
-   python -m venv venv
-   venv/Scripts/activate  (Windows)  |  source venv/bin/activate (mac/Linux)
-3. Install Flask (and DB lib if needed):
-   pip install flask tinydb
-4. Minimal app (app.py):
-   from flask import Flask, render_template
-   app = Flask(__name__)
-   @app.route("/")
-   def index():
-       return "Hello"
-   if __name__ == "__main__":
-       app.run(debug=True)
-5. Test locally:
-   python app.py
+## 1. Sign Up / Log In
+Go to https://www.pythonanywhere.com (PAW) and create a (free) account.
 
-## 2. Sign Up / Log In
-Go to https://www.pythonanywhere.com and create a (free) account.
+![PAW free account](py-anywhere/skráning.png)
 
 ## 3. Create Your Database
-Option A (SQLite):
-1. Local: create a file (e.g. app.db) using your code (SQLAlchemy / sqlite3).  
-2. Upload it later OR let the app create it on first run.
 
-Option B (TinyDB):
-Just keep data/db.json in your project; it will be created automatically.
+- TinyDB: Just keep data/db.json in your project.
 
 ## 4. Upload Code to PythonAnywhere
 Options:
-- Upload files via “Files” tab.
-- Or start a Bash console and:
-  git clone https://github.com/your/repo.git
+- Upload files via “Files” tab
+- Or start a Bash console on PAW
 
 Keep a structure like:
-yourproject/
-  app.py
-  requirements.txt
-  templates/
-  static/
-  data/
+ - yourproject/
+    - app.py
+    - requirements.txt
+    - templates/
+    - static/
+    - data/
 
 ## 5. Create requirements.txt
 In your local env:
