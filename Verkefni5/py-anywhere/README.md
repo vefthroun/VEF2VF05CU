@@ -3,7 +3,7 @@
 ## 1. Sign Up / Log In
 Go to https://www.pythonanywhere.com (PAW) and create a (free) account.
 
-![PAW free account](py-anywhere/skráning.png)
+![PAW free account](plan.png)
 
 ## 3. Create Your Database
 
