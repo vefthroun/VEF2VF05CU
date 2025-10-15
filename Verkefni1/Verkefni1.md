@@ -1,7 +1,7 @@
 ## Verkefni 1 
 10% af heildareinkunn
 - Viðfangsefni: 
-   1. Uppsettning á vinnuumverfi
+   1. Uppsettning á vinnuumhverfi
    1. Dictionary
    1. Static routing 
    1. Jinja2: templates, for-loops
