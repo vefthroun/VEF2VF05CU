@@ -2,14 +2,14 @@
 ## Verkefni 3 
 - 20% af heildareinkunn
 - Viðfangsefni:
-  1. Form og viðbætur ( CKEditor )
+  1. HTML Form og viðbætur ( CKEditor )
   1. Sessions
   1. Flash Message 
   1. Jinja: inheritance
 
 ### Verkefnalýsing
 
-Útfærðu innskráningarsíðu til að komast inná admin síðu þar sem notandi getur búið til blogfærslu sem er svo vistuð (bætt við) í gagnagrind (listi af dictionaries). Allar blofærslur birtast á forsíðu.
+Útfærðu innskráningarsíðu til að komast inná admin síðu þar sem notandi getur búið til blogfærslu sem er svo vistuð (bætt við) í gagnagrind (listi af dictionaries í .py skrá). Allar blofærslur birtast á forsíðu.
 
 ![v3.svg](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni3/v3.svg)
 
