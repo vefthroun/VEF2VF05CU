@@ -1,8 +1,8 @@
 ## Verkefni 4  
 - 25% af heildareinkunn
 - Viðfangsefni:
-  - CRUD aðgerðir með JSON / TinyDB
-  - API
+  - CRUD aðgerðir með JSON / [TinyDB](https://tinydb.readthedocs.io/en/latest/getting-started.html)
+  - API, requests
   - Jinja2: Template inheritance, Include
   - HTML Form
   - CSS Grids uppsetning (Layout) og PicoCSS / New.css / eigin 
