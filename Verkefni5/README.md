@@ -31,7 +31,7 @@ Eftirfarandi verkþættir eru metnir til einkunna: <br>
 1. Jinja: inheritance, include, skilyrðissetnignar, lykkjunotkun, filter, url_for, breytur. **(10%)**
 1. PicoCSS eða eigið CSS safn fyrir uppsetningu og útlit. **(10%)**
 1. Efnisyfirlit (menu) sýnir hvaða hlekkur er virkur hverju sinni og í efnisyfirlitinu er leitargluggi **(5%)**
-1. API notkun (ekki TVMaze) til að sækja gögn sem birtast á vef, lágmark 2 mismunandi fyrirspurnir. **(10%)**
+1. API notkun (ekki TVMaze og TMDB) til að sækja gögn sem birtast á vef, lágmark 2 mismunandi fyrirspurnir. **(10%)**
 1. Notkun á dynamic route og errorhandler (404 villa) **(5%)**
 1. Vefsíða sem birtir blogfærslur með röðun (nýjast efst). **(5%)**
 1. Login, sessions, validation og einföld auðkenning fyrir einn notanda (admin@admin.is og lykilorðið 123456), logout. **(5%)**

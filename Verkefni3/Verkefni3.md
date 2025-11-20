@@ -9,7 +9,7 @@
 
 ### Verkefnalýsing
 
-Útfærðu innskráningarsíðu til að komast inná admin síðu þar sem notandi getur búið til blogfærslu sem er svo vistuð (bætt við) í gagnagrind (listi af dictionaries). Allar blofærslur birtast á forsíðu.
+Útfærðu innskráningarsíðu til að komast inná admin síðu þar sem notandi getur búið til blogfærslu sem er svo vistuð (bætt við) í gagnagrind (listi af dictionaries í .py skrá). Allar blofærslur birtast á forsíðu.
 
 ![v3.svg](https://github.com/vefthroun/Vefforritun1/blob/main/Verkefni3/v3.svg)
 
@@ -18,7 +18,7 @@
     - formprófun (validation) á inntaksreitum (email / ekki tóm).
     - Notaðu [flash message](https://flask.palletsprojects.com/en/2.2.x/patterns/flashing/) til að láta vita hvort aðgerð hafi tekist. 
 1.  Notaðu [Session](https://flask.palletsprojects.com/en/3.0.x/quickstart/#sessions) fyrir aðgangsstýringar og auðkenningu (authentication). **20%**
-    - Það á ekki ekki að vera hægt að fara beint inná adminsíðu nema að hafa aðgang (bara einn notandi), notaðu netfangið `dummy@mail.com` og lykilorðið `123456`.
+    - Það á ekki ekki að vera hægt að fara beint inná adminsíðu nema að hafa aðgang (bara einn notandi), notaðu netfangið `admin@admin.is` og lykilorðið `1234`.
     - Útfærðu útskráningarvirkni (eyða session)
 1. Adminsíða (admin) sem inniheldur: **20%**
     - nafn innskráðs notanda.
@@ -30,11 +30,6 @@
 1. Notaðu [inhertiance](https://flask.palletsprojects.com/en/2.3.x/patterns/templateinheritance/) með Jinja fyrir skipulag. **10%**
 1. Notaðu eigið CSS safn og / eða t.d. [Pico CSS](https://picocss.com/docs/forms) eða [NEW.CSS](https://newcss.net/) fyrir form og aðra framsetningu. **10%**
 
-
-#### Punktar
-
-- Dæmi um leið til að vinna með id: `def find_next_id(): return max(blog["id"] for blog in blogs) + 1`
-  
 ---
 
 ### Námsmat og skil 
