@@ -4,8 +4,7 @@
    1. List með Dict
    1. Dynamic routing 
    1. Jinja2: include,  if-statement og for-loop
-   1. 404 Error rout
-   1. New.css CSS safnið og/eða eigið safn og/eða annað að eigin vali
+   1. 404 Error route
 
 ---
 

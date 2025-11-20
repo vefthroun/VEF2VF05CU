@@ -5,7 +5,7 @@
   - API
   - Jinja2: Template inheritance, Include
   - HTML Form
-  - CSS Grids uppsetning (Layout) og PicoCSS / New.css / eigin 
+  - Uppsetning (_Layout_) 
 
 ---
 

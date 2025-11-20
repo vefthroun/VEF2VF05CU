@@ -2,7 +2,7 @@
 ## Verkefni 3 
 - 20% af heildareinkunn
 - Viðfangsefni:
-  1. Form og viðbætur ( CKEditor )
+  1. Formvinnsla
   1. Sessions
   1. Flash Message 
   1. Jinja: inheritance
