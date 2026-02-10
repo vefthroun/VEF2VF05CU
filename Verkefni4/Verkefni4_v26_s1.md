@@ -1,4 +1,4 @@
-## Verkefni 5 
+## Verkefni 4 
 - 25% af heildareinkunn
 - **Lykilmatsþáttur**
 - Viðfangsefni: Allt námsefni
@@ -60,4 +60,5 @@ Eftirfarandi verkþættir eru metnir til einkunna: <br>
 - Þjöppuð (zip/rar) mappa með öllum skrám (ekki venv) á Innu
 - Láttu fylgja með textaskrá með lista af söfnum sem þarf að pip install (dependencies - pip freeze)
 - Vefslóð á hýsingu.
+
 
